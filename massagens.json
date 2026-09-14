@@ -1,0 +1,162 @@
+{
+  "tipo": "massagens",
+  "titulo": {
+    "pt": "Massagens",
+    "en": "Massages"
+  },
+  "nota": {
+    "pt": "Agenda aberta. Marcação na receção.",
+    "en": "Open schedule. Booking at the reception."
+  },
+  "atualizado": "2026-09-14T19:00:49",
+  "categorias": [
+    {
+      "nome": {
+        "pt": "Massagens",
+        "en": "Massages"
+      },
+      "itens": [
+        {
+          "nome": {
+            "pt": "Massagem de relaxamento",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Manobras suaves e envolventes que aliviam a tensão e induzem descanso profundo.",
+            "en": ""
+          },
+          "duracao": "60 min",
+          "preco": 50.0
+        },
+        {
+          "nome": {
+            "pt": "Massagem com pedras vulcânicas",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Pedras quentes que relaxam a musculatura e potenciam a circulação.",
+            "en": ""
+          },
+          "duracao": "60 min",
+          "preco": 60.0
+        },
+        {
+          "nome": {
+            "pt": "Massagem com velas",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Óleo morno de vela aromática que nutre a pele durante a massagem.",
+            "en": ""
+          },
+          "duracao": "60 min",
+          "preco": 60.0
+        },
+        {
+          "nome": {
+            "pt": "Massagem localizada",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Intervenção rápida e focada numa zona de tensão — costas, pescoço ou ombros.",
+            "en": ""
+          },
+          "duracao": "25 min",
+          "preco": 30.0
+        },
+        {
+          "nome": {
+            "pt": "Reflexologia",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Pressão em pontos dos pés que promove relaxamento e equilíbrio geral.",
+            "en": ""
+          },
+          "duracao": "30 min",
+          "preco": 30.0
+        },
+        {
+          "nome": {
+            "pt": "Drenagem linfática",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Manobras lentas que estimulam o sistema linfático e reduzem a retenção de líquidos.",
+            "en": ""
+          },
+          "duracao": "60 min",
+          "preco": 65.0
+        },
+        {
+          "nome": {
+            "pt": "Drenagem linfática ao rosto",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Técnica facial que desincha e reactiva o brilho natural da pele.",
+            "en": ""
+          },
+          "duracao": "40 min",
+          "preco": 60.0
+        },
+        {
+          "nome": {
+            "pt": "Limpeza facial",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Esfoliação, extração e hidratação para uma pele limpa e renovada.",
+            "en": ""
+          },
+          "duracao": "45 min",
+          "preco": 40.0
+        },
+        {
+          "nome": {
+            "pt": "Detox",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Ritual corporal completo — esfoliação, envolvimento e drenagem para eliminar toxinas.",
+            "en": ""
+          },
+          "duracao": "90 min",
+          "preco": 150.0
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Massagens de casal",
+        "en": "Couple massages"
+      },
+      "itens": [
+        {
+          "nome": {
+            "pt": "Massagem de casal com pedras vulcânicas",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Sessão partilhada; enquanto uma pessoa é manipulada, a outra descansa com pedras quentes.",
+            "en": ""
+          },
+          "duracao": "45 min · 1 terapeuta",
+          "preco": 90.0
+        },
+        {
+          "nome": {
+            "pt": "Relaxamento a dois",
+            "en": ""
+          },
+          "desc": {
+            "pt": "Ambas as pessoas são massajadas em simultâneo, para uma experiência plena a dois.",
+            "en": ""
+          },
+          "duracao": "45 min · 2 terapeutas",
+          "preco": 120.0
+        }
+      ]
+    }
+  ]
+}
