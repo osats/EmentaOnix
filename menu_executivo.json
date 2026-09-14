@@ -1,0 +1,102 @@
+{
+  "tipo": "menu_executivo",
+  "data": "2026-09-12",
+  "preco": 19.5,
+  "atualizado": "2026-09-14T18:54:16",
+  "pratos": {
+    "sopa": {
+      "pt": "Creme Provençal",
+      "en": "Vegetables cream soup",
+      "alergenios": []
+    },
+    "peixe": {
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
+      "alergenios": [
+        "O",
+        "B",
+        "G"
+      ]
+    },
+    "carne": {
+      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
+      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
+      "alergenios": [
+        "A",
+        "E"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
+      "alergenios": [
+        "A",
+        "B",
+        "G"
+      ]
+    }
+  },
+  "rodape": {
+    "pt": "Menu executivo constituído por couvert, sopa, um prato principal, sobremesa.",
+    "en": "Executive menu includes couvert, soup, a main course, dessert.",
+    "horario": "Almoço: 12h00-14h30  |  Jantar: 19h30-21h30"
+  },
+  "alergenios_legenda": {
+    "A": {
+      "pt": "Glúten",
+      "en": "Gluten"
+    },
+    "B": {
+      "pt": "Leite / Lactose",
+      "en": "Milk"
+    },
+    "C": {
+      "pt": "Ovos",
+      "en": "Eggs"
+    },
+    "D": {
+      "pt": "Soja",
+      "en": "Soya"
+    },
+    "E": {
+      "pt": "Aipo",
+      "en": "Celery"
+    },
+    "F": {
+      "pt": "Mostarda",
+      "en": "Mustard"
+    },
+    "G": {
+      "pt": "Frutos de Casca Rija",
+      "en": "Tree Nuts"
+    },
+    "H": {
+      "pt": "Amendoim",
+      "en": "Peanuts"
+    },
+    "I": {
+      "pt": "Sulfitos",
+      "en": "Sulphites"
+    },
+    "M": {
+      "pt": "Moluscos",
+      "en": "Molluscs"
+    },
+    "N": {
+      "pt": "Sésamo",
+      "en": "Sesame"
+    },
+    "O": {
+      "pt": "Peixe",
+      "en": "Fish"
+    },
+    "P": {
+      "pt": "Crustáceos",
+      "en": "Crustaceans"
+    },
+    "Q": {
+      "pt": "Tremoço",
+      "en": "Lupin"
+    }
+  }
+}

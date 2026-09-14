@@ -1,0 +1,1251 @@
+{
+  "tipo": "restaurante",
+  "titulo": {
+    "pt": "Carta do Restaurante",
+    "en": "Restaurant Menu"
+  },
+  "atualizado": "2026-09-14T18:54:16",
+  "categorias": [
+    {
+      "nome": {
+        "pt": "Entradas",
+        "en": "Starters"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Couvert",
+            "en": "Bread, Olives, Pate, Butter, Cheese, Ham"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 4.5,
+          "alergenios": [
+            "A",
+            "B",
+            "C",
+            "F",
+            "G"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Ovos mexidos com farinheira",
+            "en": "Scrambled eggs with farinheira"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": [
+            "A",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Camarão à la guillo",
+            "en": "Garlic Shrimp"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.5,
+          "alergenios": [
+            "A",
+            "P"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Cogumelos salteados",
+            "en": "Sautéed Mushrooms"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 5.5,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Sopas",
+        "en": "Soups"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Sopa do Dia",
+            "en": "Soup of the Day"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Omeletes",
+        "en": "Omelettes"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Omelete Simples",
+            "en": "Omelet"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 7.5,
+          "alergenios": [
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Omelete Mista",
+            "en": "Omelet with Cheese and Ham"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 7.5,
+          "alergenios": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Omelete de Camarão",
+            "en": "Omelet with Shrimp"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.5,
+          "alergenios": [
+            "C",
+            "P"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Saladas",
+        "en": "Salads"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Salada César",
+            "en": "Caesar Salad — Lettuce, Tomato, Chicken, Croutons, Feta Cheese"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": [
+            "A",
+            "B",
+            "C",
+            "G"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Salada Tropical",
+            "en": "Tropical Salad — Lettuce, Tomato, Red cabbage, Carrot, Peach, Pineapple"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Strognoff de Legumes",
+            "en": "Vegetable Stroganoff — Mix vegetables, Tomato, Red cabbage, Carrot, Cream"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": [
+            "B"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Tosta de Abacate",
+            "en": "Avocado Toast — Avocado, Bread, Egg"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": [
+            "A",
+            "C"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Massas",
+        "en": "Pasta"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Massa à Carbonara",
+            "en": "Carbonara Pasta — Bacon, Ham, Carbonara Sauce"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.0,
+          "alergenios": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Massa à Bolonhesa",
+            "en": "Bolognese Pasta — Pasta, Meat, Tomato Sauce, Cheese"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.0,
+          "alergenios": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Peixe",
+        "en": "Fish"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Dourada Grelhada",
+            "en": "Grilled Sea Bream — Sea Bream, Garlic, Oregano"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 13.0,
+          "alergenios": [
+            "O"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Bacalhau à Brás",
+            "en": "Cod à Brás — Codfish, Potato, Olives, Egg, Parsley"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [
+            "A",
+            "C",
+            "O"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Salmão assado com manteiga",
+            "en": "Baked Salmon with Butter — Salmon, Butter, Potatoes, Vegetables"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 13.5,
+          "alergenios": [
+            "B",
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Carne",
+        "en": "Meat"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Vitela à Lafões",
+            "en": "Lafões Roasted Veal — Veal, Potato, Onion"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Bife à Onix",
+            "en": "Onix Steak — Beef, French Fries, Rice, Bacon, Egg"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 14.0,
+          "alergenios": [
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Bife às três Pimentas",
+            "en": "Pepper Steak — Beef, French Fries, Rice, Pepper"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 14.0,
+          "alergenios": [
+            "B"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Bitoque à Portuguesa",
+            "en": "Portuguese Bitoque — Beef, Egg, Potatoes, Rice"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 13.0,
+          "alergenios": [
+            "C"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Sobremesas",
+        "en": "Desserts"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Natas do Céu",
+            "en": "Cream, Eggs"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.5,
+          "alergenios": [
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Mousse de Chocolate",
+            "en": "Chocolate, Egg, Milk"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": [
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Baba de Camelo",
+            "en": "Condensed milk, Eggs, Sugar"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": [
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Salada de Frutas",
+            "en": "Mixed Fruits"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Sugestão do chef",
+            "en": "Chef's suggestion"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Bebidas & Cafetaria",
+        "en": "Drinks & Coffee"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Água 50cl",
+            "en": "Spring Water 50cl"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 1.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Água 1.5L",
+            "en": "Spring Water 1.5L"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.2,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Água gás c/ e s/ Sabores",
+            "en": "Sparkling Water"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Néctar",
+            "en": "Nectar"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.2,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Refrigerantes",
+            "en": "Juice Can"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.2,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Ginger Ale",
+            "en": "Ginger Ale"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Cerveja Garrafa",
+            "en": "Beer Bottle"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.0,
+          "alergenios": [
+            "A"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Chá (Bule)",
+            "en": "Tea"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 1.8,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Café / Descafeinado",
+            "en": "Coffee / Decaffeinated"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 1.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Carioca Café / Limão",
+            "en": "Carioca Coffee / Lemon"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 1.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Capuccino",
+            "en": "Cappuccino"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": [
+            "B"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Galão",
+            "en": "Milk and Coffee"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": [
+            "B"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Licor Beirão",
+            "en": "Licor Beirão"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 5.0,
+          "alergenios": [
+            "I"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Aguardente Velha",
+            "en": "Aged Brandy"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": [
+            "I"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Aguardente Bagaceira",
+            "en": "Bagaceira Brandy"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": [
+            "I"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Whisky Novo",
+            "en": "Young Whisky"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": [
+            "A"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Whisky Velho",
+            "en": "Aged Whisky"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.0,
+          "alergenios": [
+            "A"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Baileys / Carolans",
+            "en": "Baileys / Carolans"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 5.0,
+          "alergenios": [
+            "B",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Vinho Tinto",
+        "en": "Red Wine"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Assobio",
+            "en": "Assobio"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Fraga da Galhofa",
+            "en": "Fraga da Galhofa"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Monte Velho",
+            "en": "Monte Velho"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Reserva 2019",
+            "en": "Adega Mayor Reserva 2019"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 18.0,
+          "alergenios": [],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Caiado",
+            "en": "Adega Mayor Caiado"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Quebra-cabeças",
+            "en": "Quebra-cabeças"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": 4.5
+        },
+        {
+          "nome": {
+            "pt": "Taboadella Villae",
+            "en": "Taboadella Villae"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 20.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Pedra Cancela Quinta da Fidalga",
+            "en": "Pedra Cancela Quinta da Fidalga"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Pedra Cancela Reserva",
+            "en": "Pedra Cancela Reserva"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 18.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Casa de Santar",
+            "en": "Casa de Santar"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 16.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Meia Encosta",
+            "en": "Meia Encosta"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Grão Vasco",
+            "en": "Grão Vasco"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": 6.5
+        },
+        {
+          "nome": {
+            "pt": "Cabriz Colheita Selecionada",
+            "en": "Cabriz Colheita Selecionada"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.5,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Pedra Cancela Seleção Enólogo",
+            "en": "Pedra Cancela Seleção Enólogo"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 10.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Quinta dos Penassais",
+            "en": "Quinta dos Penassais"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Cabeça de Toiro",
+            "en": "Cabeça de Toiro"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 16.0,
+          "alergenios": [],
+          "regiao": "Tejo",
+          "preco_meia": null
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Vinho Branco",
+        "en": "White Wine"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Assobio",
+            "en": "Assobio"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Fraga da Galhofa",
+            "en": "Fraga da Galhofa"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Reserva 2019",
+            "en": "Adega Mayor Reserva 2019"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 18.0,
+          "alergenios": [],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Caiado",
+            "en": "Adega Mayor Caiado"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Quebra-cabeças",
+            "en": "Quebra-cabeças"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": 4.5
+        },
+        {
+          "nome": {
+            "pt": "Pedra Cancela Quinta da Fidalga Encruzado",
+            "en": "Pedra Cancela Quinta da Fidalga Encruzado"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Pedra Cancela Reserva",
+            "en": "Pedra Cancela Reserva"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 18.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Casa de Santar",
+            "en": "Casa de Santar"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 16.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Taboadella Encruzado",
+            "en": "Taboadella Encruzado"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 25.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Grão Vasco",
+            "en": "Grão Vasco"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 11.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Encostas de Penalva",
+            "en": "Encostas de Penalva"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 10.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Pedra Cancela Seleção Enólogo",
+            "en": "Pedra Cancela Seleção Enólogo"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Quinta dos Penassais",
+            "en": "Quinta dos Penassais"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Encontas da Arrábida Reserva 2021",
+            "en": "Encontas da Arrábida Reserva 2021"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.5,
+          "alergenios": [],
+          "regiao": "Tejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Casal Garcia",
+            "en": "Casal Garcia"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 10.0,
+          "alergenios": [],
+          "regiao": "Verde",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Gatão",
+            "en": "Gatão"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.0,
+          "alergenios": [],
+          "regiao": "Verde",
+          "preco_meia": null
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Vinho Rosé",
+        "en": "Rosé Wine"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Mateus Rosé",
+            "en": "Mateus Rosé"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "",
+          "preco_meia": null
+        }
+      ]
+    }
+  ],
+  "alergenios_legenda": {
+    "A": {
+      "pt": "Glúten",
+      "en": "Gluten"
+    },
+    "B": {
+      "pt": "Leite / Lactose",
+      "en": "Milk"
+    },
+    "C": {
+      "pt": "Ovos",
+      "en": "Eggs"
+    },
+    "D": {
+      "pt": "Soja",
+      "en": "Soya"
+    },
+    "E": {
+      "pt": "Aipo",
+      "en": "Celery"
+    },
+    "F": {
+      "pt": "Mostarda",
+      "en": "Mustard"
+    },
+    "G": {
+      "pt": "Frutos de Casca Rija",
+      "en": "Tree Nuts"
+    },
+    "H": {
+      "pt": "Amendoim",
+      "en": "Peanuts"
+    },
+    "I": {
+      "pt": "Sulfitos",
+      "en": "Sulphites"
+    },
+    "M": {
+      "pt": "Moluscos",
+      "en": "Molluscs"
+    },
+    "N": {
+      "pt": "Sésamo",
+      "en": "Sesame"
+    },
+    "O": {
+      "pt": "Peixe",
+      "en": "Fish"
+    },
+    "P": {
+      "pt": "Crustáceos",
+      "en": "Crustaceans"
+    },
+    "Q": {
+      "pt": "Tremoço",
+      "en": "Lupin"
+    }
+  }
+}

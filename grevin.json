@@ -1,0 +1,808 @@
+{
+  "tipo": "grevin",
+  "titulo": {
+    "pt": "Bar Grevin",
+    "en": "Grevin Bar"
+  },
+  "atualizado": "2026-09-14T18:54:16",
+  "categorias": [
+    {
+      "nome": {
+        "pt": "Para partilhar",
+        "en": "To share"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Couvert",
+            "en": "Bread, olives and pâté"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Tábua de queijo e enchidos",
+            "en": "Cheese and cured meat board"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Tosta de abacate com ovo",
+            "en": "Avocado toast with egg"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Omelete Mista",
+            "en": "Omelet with Cheese and Ham"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 7.5,
+          "alergenios": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Bruschetta de tomate e queijo",
+            "en": "Tomato and cheese bruschetta"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 4.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Chouriça assada",
+            "en": "Grilled chouriço sausage"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 7.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Cogumelos salteados",
+            "en": "Sautéed Mushrooms"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 5.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Asas de frango",
+            "en": "Chicken wings"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Refeições ligeiras",
+        "en": "Light meals"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Sopa do Dia",
+            "en": "Soup of the Day"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Salada Caesar",
+            "en": "Caesar salad"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Camarão à la guillo",
+            "en": "Garlic Shrimp"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 9.5,
+          "alergenios": [
+            "A",
+            "P"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Ovos mexidos com farinheira",
+            "en": "Scrambled eggs with farinheira"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": [
+            "A",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Tosta mista",
+            "en": "Ham and cheese toast"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Bifana no pão",
+            "en": "Pork sandwich"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 5.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Hambúrguer Onix",
+            "en": "Onix burger"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Batata frita",
+            "en": "French fries"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.5,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Doces",
+        "en": "Desserts"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Mousse de chocolate",
+            "en": "Chocolate mousse"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Natas do Céu",
+            "en": "Cream, Eggs"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.5,
+          "alergenios": [
+            "B",
+            "C"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Salada de fruta",
+            "en": "Fruit salad"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Bolo ou pudim do dia",
+            "en": "Cake or pudding of the day"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Vinho a copo",
+        "en": "Wine by the glass"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Branco da casa",
+            "en": "House white wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": [],
+          "regiao": "",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Tinto da casa",
+            "en": "House red wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": [],
+          "regiao": "",
+          "preco_meia": null
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Vinho Tinto",
+        "en": "Red Wine"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Grão Vasco",
+            "en": "Dão red wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Cabriz Colheita Selecionada",
+            "en": "Dão red wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.5,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Casa de Santar",
+            "en": "Dão red wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 16.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Assobio",
+            "en": "Douro red wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Douro",
+          "preco_meia": null
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Vinho Branco",
+        "en": "White Wine"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Casa de Santar",
+            "en": "Dão white wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 16.0,
+          "alergenios": [],
+          "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Assobio",
+            "en": "Douro white wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Casal Garcia",
+            "en": "Vinho Verde"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 10.0,
+          "alergenios": [],
+          "regiao": "Verde",
+          "preco_meia": null
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Rosé",
+        "en": "Rosé"
+      },
+      "tipo": "vinhos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Mateus Rosé",
+            "en": "Portuguese rosé wine"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [],
+          "regiao": "Portugal",
+          "preco_meia": null
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Cocktails",
+        "en": "Cocktails"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Gin tónico",
+            "en": "Gin and tonic"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Mojito",
+            "en": "Mojito"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Caipirinha",
+            "en": "Caipirinha"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Aperol Spritz",
+            "en": "Aperol Spritz"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Porto tónico",
+            "en": "Port and tonic"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 6.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Pôr do Sol",
+            "en": "Signature cocktail"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 8.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Pôr do Sol sem álcool",
+            "en": "Non-alcoholic signature cocktail"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 7.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Sangria - jarro",
+            "en": "Sangria - jug"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 13.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Sangria - copo",
+            "en": "Sangria - glass"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 4.5,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Cervejas",
+        "en": "Beers"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Mini",
+            "en": "Mini beer"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 1.2,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Pressão 20 cl",
+            "en": "Draught beer 20 cl"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Pressão 35 cl",
+            "en": "Draught beer 35 cl"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Caneca 50 cl",
+            "en": "Pint 50 cl"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Cerveja Garrafa",
+            "en": "Beer Bottle"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.0,
+          "alergenios": [
+            "A"
+          ]
+        },
+        {
+          "nome": {
+            "pt": "Somersby",
+            "en": "Cider"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": []
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Sem álcool",
+        "en": "Non-alcoholic"
+      },
+      "tipo": "pratos",
+      "itens": [
+        {
+          "nome": {
+            "pt": "Água 33 cl",
+            "en": "Still water 33 cl"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 1.5,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Água com gás",
+            "en": "Sparkling water"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Refrigerante ou ice tea",
+            "en": "Soft drink or ice tea"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.2,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Limonada",
+            "en": "Lemonade"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 2.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Sumo de laranja natural",
+            "en": "Fresh orange juice"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 3.0,
+          "alergenios": []
+        },
+        {
+          "nome": {
+            "pt": "Bebida energética",
+            "en": "Energy drink"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 4.0,
+          "alergenios": []
+        }
+      ]
+    }
+  ],
+  "alergenios_legenda": {
+    "A": {
+      "pt": "Glúten",
+      "en": "Gluten"
+    },
+    "B": {
+      "pt": "Leite / Lactose",
+      "en": "Milk"
+    },
+    "C": {
+      "pt": "Ovos",
+      "en": "Eggs"
+    },
+    "D": {
+      "pt": "Soja",
+      "en": "Soya"
+    },
+    "E": {
+      "pt": "Aipo",
+      "en": "Celery"
+    },
+    "F": {
+      "pt": "Mostarda",
+      "en": "Mustard"
+    },
+    "G": {
+      "pt": "Frutos de Casca Rija",
+      "en": "Tree Nuts"
+    },
+    "H": {
+      "pt": "Amendoim",
+      "en": "Peanuts"
+    },
+    "I": {
+      "pt": "Sulfitos",
+      "en": "Sulphites"
+    },
+    "M": {
+      "pt": "Moluscos",
+      "en": "Molluscs"
+    },
+    "N": {
+      "pt": "Sésamo",
+      "en": "Sesame"
+    },
+    "O": {
+      "pt": "Peixe",
+      "en": "Fish"
+    },
+    "P": {
+      "pt": "Crustáceos",
+      "en": "Crustaceans"
+    },
+    "Q": {
+      "pt": "Tremoço",
+      "en": "Lupin"
+    }
+  }
+}
