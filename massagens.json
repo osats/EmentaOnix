@@ -6,9 +6,9 @@
   },
   "nota": {
     "pt": "Agenda aberta. Marcação na receção.",
-    "en": "Open schedule. Booking at the reception."
+    "en": "Appointments available. Please book at reception."
   },
-  "atualizado": "2026-09-15T13:31:54",
+  "atualizado": "2026-09-15T13:47:33",
   "categorias": [
     {
       "nome": {
@@ -19,59 +19,59 @@
         {
           "nome": {
             "pt": "Massagem de relaxamento",
-            "en": ""
+            "en": "Relaxation Massage"
           },
           "desc": {
             "pt": "Manobras suaves e envolventes que aliviam a tensão e induzem descanso profundo.",
-            "en": ""
+            "en": "Gentle, enveloping movements that relieve tension and promote deep relaxation."
           },
-          "duracao": "40 min",
+          "duracao": "60 min",
           "preco": 50.0
         },
         {
           "nome": {
             "pt": "Massagem com pedras vulcânicas",
-            "en": ""
+            "en": "Hot Stone Massage"
           },
           "desc": {
             "pt": "Pedras quentes que relaxam a musculatura e potenciam a circulação.",
-            "en": ""
+            "en": "Hot stones relax the muscles and stimulate circulation."
           },
-          "duracao": "40 min",
-          "preco": 50.0
+          "duracao": "60 min",
+          "preco": 60.0
         },
         {
           "nome": {
             "pt": "Massagem com velas",
-            "en": ""
+            "en": "Candle Massage"
           },
           "desc": {
             "pt": "Óleo morno de vela aromática que nutre a pele durante a massagem.",
-            "en": ""
+            "en": "Warm aromatic candle oil nourishes the skin during the massage."
           },
-          "duracao": "40 min",
-          "preco": 65.0
+          "duracao": "60 min",
+          "preco": 60.0
         },
         {
           "nome": {
             "pt": "Massagem localizada",
-            "en": ""
+            "en": "Targeted Massage"
           },
           "desc": {
             "pt": "Intervenção rápida e focada numa zona de tensão — costas, pescoço ou ombros.",
-            "en": ""
+            "en": "A focused treatment for areas of tension — back, neck or shoulders."
           },
           "duracao": "25 min",
-          "preco": 20.0
+          "preco": 30.0
         },
         {
           "nome": {
             "pt": "Reflexologia",
-            "en": ""
+            "en": "Reflexology"
           },
           "desc": {
             "pt": "Pressão em pontos dos pés que promove relaxamento e equilíbrio geral.",
-            "en": ""
+            "en": "Pressure applied to reflex points on the feet promotes relaxation and overall balance."
           },
           "duracao": "30 min",
           "preco": 30.0
@@ -79,35 +79,35 @@
         {
           "nome": {
             "pt": "Drenagem linfática",
-            "en": ""
+            "en": "Lymphatic Drainage"
           },
           "desc": {
             "pt": "Manobras lentas que estimulam o sistema linfático e reduzem a retenção de líquidos.",
-            "en": ""
+            "en": "Gentle movements stimulate the lymphatic system and reduce fluid retention."
           },
           "duracao": "60 min",
-          "preco": 75.0
+          "preco": 65.0
         },
         {
           "nome": {
             "pt": "Drenagem linfática ao rosto",
-            "en": ""
+            "en": "Facial Lymphatic Drainage"
           },
           "desc": {
             "pt": "Técnica facial que desincha e reactiva o brilho natural da pele.",
-            "en": ""
+            "en": "A facial technique that reduces puffiness and restores the skin’s natural radiance."
           },
           "duracao": "40 min",
-          "preco": 70.0
+          "preco": 60.0
         },
         {
           "nome": {
             "pt": "Limpeza facial",
-            "en": ""
+            "en": "Facial Cleansing"
           },
           "desc": {
-            "pt": "Esfoliação e hidratação para uma pele limpa e renovada.",
-            "en": ""
+            "pt": "Esfoliação, extração e hidratação para uma pele limpa e renovada.",
+            "en": "Exfoliation and hydration for clean, refreshed skin."
           },
           "duracao": "45 min",
           "preco": 40.0
@@ -115,11 +115,11 @@
         {
           "nome": {
             "pt": "Detox",
-            "en": ""
+            "en": "Detox Ritual"
           },
           "desc": {
             "pt": "Ritual corporal completo — esfoliação, envolvimento e drenagem para eliminar toxinas.",
-            "en": ""
+            "en": "A complete body ritual — exfoliation, body wrap and drainage to help eliminate toxins."
           },
           "duracao": "90 min",
           "preco": 150.0
@@ -129,20 +129,32 @@
     {
       "nome": {
         "pt": "Massagens de casal",
-        "en": "Couple massages"
+        "en": "Couples Massages"
       },
       "itens": [
         {
           "nome": {
             "pt": "Massagem de casal com pedras vulcânicas",
-            "en": ""
+            "en": "Couples Hot Stone Massage"
           },
           "desc": {
             "pt": "Sessão partilhada; enquanto uma pessoa é manipulada, a outra descansa com pedras quentes.",
-            "en": ""
+            "en": "A shared session; while one person receives the massage, the other relaxes with hot stones."
           },
           "duracao": "45 min · 1 terapeuta",
           "preco": 90.0
+        },
+        {
+          "nome": {
+            "pt": "Relaxamento a dois",
+            "en": "Couples Relaxation"
+          },
+          "desc": {
+            "pt": "Ambas as pessoas são massajadas em simultâneo, para uma experiência plena a dois.",
+            "en": "Both guests are massaged simultaneously for a complete shared experience."
+          },
+          "duracao": "45 min · 2 terapeutas",
+          "preco": 120.0
         }
       ]
     }
