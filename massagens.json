@@ -8,7 +8,7 @@
     "pt": "Agenda aberta. Marcação na receção.",
     "en": "Open schedule. Booking at the reception."
   },
-  "atualizado": "2026-09-14T19:00:49",
+  "atualizado": "2026-09-15T13:31:54",
   "categorias": [
     {
       "nome": {
@@ -25,7 +25,7 @@
             "pt": "Manobras suaves e envolventes que aliviam a tensão e induzem descanso profundo.",
             "en": ""
           },
-          "duracao": "60 min",
+          "duracao": "40 min",
           "preco": 50.0
         },
         {
@@ -37,8 +37,8 @@
             "pt": "Pedras quentes que relaxam a musculatura e potenciam a circulação.",
             "en": ""
           },
-          "duracao": "60 min",
-          "preco": 60.0
+          "duracao": "40 min",
+          "preco": 50.0
         },
         {
           "nome": {
@@ -49,8 +49,8 @@
             "pt": "Óleo morno de vela aromática que nutre a pele durante a massagem.",
             "en": ""
           },
-          "duracao": "60 min",
-          "preco": 60.0
+          "duracao": "40 min",
+          "preco": 65.0
         },
         {
           "nome": {
@@ -62,7 +62,7 @@
             "en": ""
           },
           "duracao": "25 min",
-          "preco": 30.0
+          "preco": 20.0
         },
         {
           "nome": {
@@ -86,7 +86,7 @@
             "en": ""
           },
           "duracao": "60 min",
-          "preco": 65.0
+          "preco": 75.0
         },
         {
           "nome": {
@@ -98,7 +98,7 @@
             "en": ""
           },
           "duracao": "40 min",
-          "preco": 60.0
+          "preco": 70.0
         },
         {
           "nome": {
@@ -106,7 +106,7 @@
             "en": ""
           },
           "desc": {
-            "pt": "Esfoliação, extração e hidratação para uma pele limpa e renovada.",
+            "pt": "Esfoliação e hidratação para uma pele limpa e renovada.",
             "en": ""
           },
           "duracao": "45 min",
@@ -143,18 +143,6 @@
           },
           "duracao": "45 min · 1 terapeuta",
           "preco": 90.0
-        },
-        {
-          "nome": {
-            "pt": "Relaxamento a dois",
-            "en": ""
-          },
-          "desc": {
-            "pt": "Ambas as pessoas são massajadas em simultâneo, para uma experiência plena a dois.",
-            "en": ""
-          },
-          "duracao": "45 min · 2 terapeutas",
-          "preco": 120.0
         }
       ]
     }
