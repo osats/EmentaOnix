@@ -4,7 +4,7 @@
     "pt": "Bar Grevin",
     "en": "Grevin Bar"
   },
-  "atualizado": "2026-09-14T18:54:16",
+  "atualizado": "2026-09-15T10:29:40",
   "categorias": [
     {
       "nome": {
@@ -23,7 +23,13 @@
             "en": ""
           },
           "preco": 3.5,
-          "alergenios": []
+          "alergenios": [
+            "A",
+            "B",
+            "C",
+            "F",
+            "G"
+          ]
         },
         {
           "nome": {
@@ -35,7 +41,9 @@
             "en": ""
           },
           "preco": 6.5,
-          "alergenios": []
+          "alergenios": [
+            "B"
+          ]
         },
         {
           "nome": {
@@ -47,7 +55,10 @@
             "en": ""
           },
           "preco": 6.0,
-          "alergenios": []
+          "alergenios": [
+            "A",
+            "C"
+          ]
         },
         {
           "nome": {
@@ -75,7 +86,10 @@
             "en": ""
           },
           "preco": 4.5,
-          "alergenios": []
+          "alergenios": [
+            "A",
+            "B"
+          ]
         },
         {
           "nome": {
@@ -147,7 +161,12 @@
             "en": ""
           },
           "preco": 8.0,
-          "alergenios": []
+          "alergenios": [
+            "A",
+            "B",
+            "C",
+            "G"
+          ]
         },
         {
           "nome": {
@@ -189,7 +208,10 @@
             "en": ""
           },
           "preco": 3.5,
-          "alergenios": []
+          "alergenios": [
+            "A",
+            "B"
+          ]
         },
         {
           "nome": {
@@ -201,7 +223,9 @@
             "en": ""
           },
           "preco": 5.0,
-          "alergenios": []
+          "alergenios": [
+            "A"
+          ]
         },
         {
           "nome": {
@@ -213,7 +237,9 @@
             "en": ""
           },
           "preco": 8.5,
-          "alergenios": []
+          "alergenios": [
+            "A"
+          ]
         },
         {
           "nome": {
@@ -246,7 +272,10 @@
             "en": ""
           },
           "preco": 2.5,
-          "alergenios": []
+          "alergenios": [
+            "B",
+            "C"
+          ]
         },
         {
           "nome": {
@@ -285,7 +314,11 @@
             "en": ""
           },
           "preco": 2.5,
-          "alergenios": []
+          "alergenios": [
+            "A",
+            "B",
+            "C"
+          ]
         }
       ]
     },
@@ -306,7 +339,9 @@
             "en": ""
           },
           "preco": 3.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "",
           "preco_meia": null
         },
@@ -320,7 +355,9 @@
             "en": ""
           },
           "preco": 3.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "",
           "preco_meia": null
         }
@@ -343,7 +380,9 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -357,7 +396,9 @@
             "en": ""
           },
           "preco": 12.5,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -371,7 +412,9 @@
             "en": ""
           },
           "preco": 16.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -385,7 +428,9 @@
             "en": ""
           },
           "preco": 15.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Douro",
           "preco_meia": null
         }
@@ -408,7 +453,9 @@
             "en": ""
           },
           "preco": 16.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -422,7 +469,9 @@
             "en": ""
           },
           "preco": 15.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Douro",
           "preco_meia": null
         },
@@ -436,7 +485,9 @@
             "en": ""
           },
           "preco": 10.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Verde",
           "preco_meia": null
         }
@@ -459,7 +510,9 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Portugal",
           "preco_meia": null
         }
@@ -566,7 +619,9 @@
             "en": ""
           },
           "preco": 13.0,
-          "alergenios": []
+          "alergenios": [
+            "I"
+          ]
         },
         {
           "nome": {
@@ -578,7 +633,9 @@
             "en": ""
           },
           "preco": 4.5,
-          "alergenios": []
+          "alergenios": [
+            "I"
+          ]
         }
       ]
     },
@@ -599,7 +656,9 @@
             "en": ""
           },
           "preco": 1.2,
-          "alergenios": []
+          "alergenios": [
+            "A"
+          ]
         },
         {
           "nome": {
@@ -611,7 +670,9 @@
             "en": ""
           },
           "preco": 2.0,
-          "alergenios": []
+          "alergenios": [
+            "A"
+          ]
         },
         {
           "nome": {
@@ -623,7 +684,9 @@
             "en": ""
           },
           "preco": 2.5,
-          "alergenios": []
+          "alergenios": [
+            "A"
+          ]
         },
         {
           "nome": {
@@ -635,7 +698,9 @@
             "en": ""
           },
           "preco": 3.5,
-          "alergenios": []
+          "alergenios": [
+            "A"
+          ]
         },
         {
           "nome": {
@@ -750,59 +815,73 @@
   "alergenios_legenda": {
     "A": {
       "pt": "Glúten",
-      "en": "Gluten"
+      "en": "Gluten",
+      "cor": "#E8652A"
     },
     "B": {
       "pt": "Leite / Lactose",
-      "en": "Milk"
+      "en": "Milk",
+      "cor": "#00BFFF"
     },
     "C": {
       "pt": "Ovos",
-      "en": "Eggs"
+      "en": "Eggs",
+      "cor": "#F5A800"
     },
     "D": {
       "pt": "Soja",
-      "en": "Soya"
+      "en": "Soya",
+      "cor": "#2E7D32"
     },
     "E": {
       "pt": "Aipo",
-      "en": "Celery"
+      "en": "Celery",
+      "cor": "#388E3C"
     },
     "F": {
       "pt": "Mostarda",
-      "en": "Mustard"
+      "en": "Mustard",
+      "cor": "#E67E00"
     },
     "G": {
       "pt": "Frutos de Casca Rija",
-      "en": "Tree Nuts"
+      "en": "Tree Nuts",
+      "cor": "#D2691E"
     },
     "H": {
       "pt": "Amendoim",
-      "en": "Peanuts"
+      "en": "Peanuts",
+      "cor": "#8B5E3C"
     },
     "I": {
       "pt": "Sulfitos",
-      "en": "Sulphites"
+      "en": "Sulphites",
+      "cor": "#6A1B9A"
     },
     "M": {
       "pt": "Moluscos",
-      "en": "Molluscs"
+      "en": "Molluscs",
+      "cor": "#00BFA5"
     },
     "N": {
       "pt": "Sésamo",
-      "en": "Sesame"
+      "en": "Sesame",
+      "cor": "#757575"
     },
     "O": {
       "pt": "Peixe",
-      "en": "Fish"
+      "en": "Fish",
+      "cor": "#1565C0"
     },
     "P": {
       "pt": "Crustáceos",
-      "en": "Crustaceans"
+      "en": "Crustaceans",
+      "cor": "#1976D2"
     },
     "Q": {
       "pt": "Tremoço",
-      "en": "Lupin"
+      "en": "Lupin",
+      "cor": "#F9A825"
     }
   }
 }
