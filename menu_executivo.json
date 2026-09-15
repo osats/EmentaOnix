@@ -1,38 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-12",
+  "data": "2026-09-15",
   "preco": 19.5,
-  "atualizado": "2026-09-14T18:54:16",
+  "atualizado": "2026-09-15T10:47:47",
   "pratos": {
     "sopa": {
-      "pt": "Creme Provençal",
-      "en": "Vegetables cream soup",
-      "alergenios": []
-    },
-    "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Creme de Legumes",
+      "en": "Vegetables Cream",
       "alergenios": [
-        "O",
         "B",
-        "G"
-      ]
-    },
-    "carne": {
-      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
-      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
-      "alergenios": [
-        "A",
         "E"
       ]
     },
+    "peixe": {
+      "pt": "Dourada no Forno",
+      "en": "Roasted Seabream",
+      "alergenios": [
+        "O",
+        "B"
+      ]
+    },
+    "carne": {
+      "pt": "Bitoque à Portuguesa",
+      "en": "Portuguese-style steak with a fried egg",
+      "alergenios": [
+        "A",
+        "C",
+        "F"
+      ]
+    },
     "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
+      "pt": "Pudim Flan",
+      "en": "Flan Pudding",
       "alergenios": [
         "A",
         "B",
-        "G"
+        "C"
       ]
     }
   },
@@ -44,59 +47,73 @@
   "alergenios_legenda": {
     "A": {
       "pt": "Glúten",
-      "en": "Gluten"
+      "en": "Gluten",
+      "cor": "#E8652A"
     },
     "B": {
       "pt": "Leite / Lactose",
-      "en": "Milk"
+      "en": "Milk",
+      "cor": "#00BFFF"
     },
     "C": {
       "pt": "Ovos",
-      "en": "Eggs"
+      "en": "Eggs",
+      "cor": "#F5A800"
     },
     "D": {
       "pt": "Soja",
-      "en": "Soya"
+      "en": "Soya",
+      "cor": "#2E7D32"
     },
     "E": {
       "pt": "Aipo",
-      "en": "Celery"
+      "en": "Celery",
+      "cor": "#388E3C"
     },
     "F": {
       "pt": "Mostarda",
-      "en": "Mustard"
+      "en": "Mustard",
+      "cor": "#E67E00"
     },
     "G": {
       "pt": "Frutos de Casca Rija",
-      "en": "Tree Nuts"
+      "en": "Tree Nuts",
+      "cor": "#D2691E"
     },
     "H": {
       "pt": "Amendoim",
-      "en": "Peanuts"
+      "en": "Peanuts",
+      "cor": "#8B5E3C"
     },
     "I": {
       "pt": "Sulfitos",
-      "en": "Sulphites"
+      "en": "Sulphites",
+      "cor": "#6A1B9A"
     },
     "M": {
       "pt": "Moluscos",
-      "en": "Molluscs"
+      "en": "Molluscs",
+      "cor": "#00BFA5"
     },
     "N": {
       "pt": "Sésamo",
-      "en": "Sesame"
+      "en": "Sesame",
+      "cor": "#757575"
     },
     "O": {
       "pt": "Peixe",
-      "en": "Fish"
+      "en": "Fish",
+      "cor": "#1565C0"
     },
     "P": {
       "pt": "Crustáceos",
-      "en": "Crustaceans"
+      "en": "Crustaceans",
+      "cor": "#1976D2"
     },
     "Q": {
       "pt": "Tremoço",
-      "en": "Lupin"
+      "en": "Lupin",
+      "cor": "#F9A825"
     }
   }
 }
