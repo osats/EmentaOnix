@@ -1,41 +1,40 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-15",
+  "data": "2026-09-16",
   "preco": 19.5,
-  "atualizado": "2026-09-15T10:54:41",
+  "atualizado": "2026-09-16T12:45:13",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Legumes",
-      "en": "Vegetables Cream",
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
       "alergenios": [
-        "B",
         "E"
       ]
     },
     "peixe": {
-      "pt": "Dourada no Forno",
-      "en": "Roasted Seabream",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
         "O",
-        "B"
+        "B",
+        "G"
       ]
     },
     "carne": {
-      "pt": "Bitoque à Portuguesa",
-      "en": "Portuguese-style steak with a fried egg",
+      "pt": "Febras à Portuguesa C/ Batata Frita",
+      "en": "Portuguese-style pork steaks with fries",
       "alergenios": [
-        "A",
         "C",
         "F"
       ]
     },
     "sobremesa": {
-      "pt": "Pudim Flan",
-      "en": "Flan Pudding",
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
