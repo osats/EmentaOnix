@@ -1,35 +1,33 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-17",
+  "data": "2026-09-18",
   "preco": 19.5,
-  "atualizado": "2026-09-17T12:55:39",
+  "atualizado": "2026-09-18T12:26:21",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Legumes",
-      "en": "Vegetables Cream",
-      "alergenios": [
-        "B",
-        "E"
-      ]
+      "pt": "Sopa de Feijão Verde",
+      "en": "Green Bean Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Noodles com camarão",
-      "en": "Shrimp Noodles",
+      "pt": "Miminhos de Pescada",
+      "en": "Hake Fillets",
       "alergenios": [
-        "B",
-        "C",
-        "M",
-        "P"
+        "D",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Espetadinhas com arroz de cenoura",
-      "en": "Skewers with Carrot Rice",
-      "alergenios": []
+      "pt": "Panadinhos à Milanesa",
+      "en": "Breaded cutlets Milanese style",
+      "alergenios": [
+        "A",
+        "C"
+      ]
     },
     "sobremesa": {
-      "pt": "Pudim Flan",
-      "en": "Flan Pudding",
+      "pt": "Leite Creme",
+      "en": "Custard",
       "alergenios": [
         "A",
         "B",
