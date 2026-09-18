@@ -2,7 +2,7 @@
   "tipo": "menu_executivo",
   "data": "2026-09-18",
   "preco": 19.5,
-  "atualizado": "2026-09-18T13:36:54",
+  "atualizado": "2026-09-18T14:18:31",
   "pratos": {
     "sopa": {
       "pt": "Sopa de Feijão Verde",
@@ -18,11 +18,13 @@
       ]
     },
     "carne": {
-      "pt": "Panadinho de Frango com arroz de Feijão",
-      "en": "Chicken Panadinho with Bean Rice",
+      "pt": "Panadinho com arroz de legumes",
+      "en": "Panadinho with vegetable rice",
       "alergenios": [
         "A",
-        "F"
+        "B",
+        "C",
+        "Q"
       ]
     },
     "sobremesa": {
