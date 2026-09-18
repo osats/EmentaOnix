@@ -2,7 +2,7 @@
   "tipo": "menu_executivo",
   "data": "2026-09-18",
   "preco": 19.5,
-  "atualizado": "2026-09-18T12:26:21",
+  "atualizado": "2026-09-18T13:36:54",
   "pratos": {
     "sopa": {
       "pt": "Sopa de Feijão Verde",
@@ -18,11 +18,11 @@
       ]
     },
     "carne": {
-      "pt": "Panadinhos à Milanesa",
-      "en": "Breaded cutlets Milanese style",
+      "pt": "Panadinho de Frango com arroz de Feijão",
+      "en": "Chicken Panadinho with Bean Rice",
       "alergenios": [
         "A",
-        "C"
+        "F"
       ]
     },
     "sobremesa": {
