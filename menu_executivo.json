@@ -1,39 +1,35 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-18",
+  "data": "2026-09-19",
   "preco": 19.5,
-  "atualizado": "2026-09-18T14:18:31",
+  "atualizado": "2026-09-19T11:25:19",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
+      "pt": "Sopa Juliana",
+      "en": "Portuguese Julienne Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Miminhos de Pescada",
-      "en": "Hake Fillets",
-      "alergenios": [
-        "D",
-        "O"
-      ]
+      "pt": "Filetes de Pescada com Puré de Batata",
+      "en": "Hake Fillets with Mashed Potatoes",
+      "alergenios": []
     },
     "carne": {
-      "pt": "Panadinho com arroz de legumes",
-      "en": "Panadinho with vegetable rice",
+      "pt": "Vitela na Púcara",
+      "en": "Stewed veal with fried potatoes,  peas and carrots",
       "alergenios": [
-        "A",
-        "B",
-        "C",
-        "Q"
+        "D",
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Leite Creme",
-      "en": "Custard",
+      "pt": "Arroz Doce",
+      "en": "Sweet Rice",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I",
+        "M"
       ]
     }
   },
