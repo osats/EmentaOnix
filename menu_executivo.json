@@ -1,38 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-20",
+  "data": "2026-09-21",
   "preco": 19.5,
-  "atualizado": "2026-09-20T10:43:38",
+  "atualizado": "2026-09-21T11:12:47",
   "pratos": {
     "sopa": {
-      "pt": "Caldo Verde",
-      "en": "Green Soup",
-      "alergenios": [
-        "A"
-      ]
-    },
-    "peixe": {
-      "pt": "Filetes à Marinheiro",
-      "en": "Hake Fillets  with seafood sauce",
-      "alergenios": [
-        "A",
-        "M",
-        "O",
-        "P"
-      ]
-    },
-    "carne": {
-      "pt": "Bife à Portuguesa",
-      "en": "",
+      "pt": "Sopa de Agrião",
+      "en": "Watercress Soup",
       "alergenios": []
     },
-    "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
+    "peixe": {
+      "pt": "Salmão no Forno",
+      "en": "Roasted Salmon",
       "alergenios": [
         "A",
         "B",
+        "C",
         "G"
+      ]
+    },
+    "carne": {
+      "pt": "Vitela Estufada c/arroz e ervilhas",
+      "en": "Braised veal with rice and peas",
+      "alergenios": [
+        "A",
+        "I"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
+      "alergenios": [
+        "A",
+        "B",
+        "I"
       ]
     }
   },
