@@ -1,39 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-21",
+  "data": "2026-09-22",
   "preco": 19.5,
-  "atualizado": "2026-09-21T11:12:47",
+  "atualizado": "2026-09-22T11:51:42",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Agrião",
-      "en": "Watercress Soup",
-      "alergenios": []
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
+      "alergenios": [
+        "B",
+        "N"
+      ]
     },
     "peixe": {
-      "pt": "Salmão no Forno",
-      "en": "Roasted Salmon",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
-        "A",
+        "O",
         "B",
-        "C",
         "G"
       ]
     },
     "carne": {
-      "pt": "Vitela Estufada c/arroz e ervilhas",
-      "en": "Braised veal with rice and peas",
-      "alergenios": [
-        "A",
-        "I"
-      ]
+      "pt": "Lombo assado à padeiro",
+      "en": "Baker-roasted loin",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Mousse de Chocolate",
-      "en": "Chocolate Mousse",
+      "pt": "Arroz Doce",
+      "en": "Sweet Rice",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "I",
+        "M"
       ]
     }
   },
