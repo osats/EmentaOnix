@@ -1,39 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-22",
+  "data": "2026-09-23",
   "preco": 19.5,
-  "atualizado": "2026-09-22T11:55:45",
+  "atualizado": "2026-09-23T12:18:53",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
-      "alergenios": [
-        "B",
-        "N"
-      ]
+      "pt": "Sopa de Feijão Verde",
+      "en": "Green Bean Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Dourada no Forno",
+      "en": "Roasted Seabream",
       "alergenios": [
         "O",
-        "B",
-        "G"
+        "B"
       ]
     },
     "carne": {
-      "pt": "Lombo assado à padeiro",
-      "en": "Baker-roasted loin",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Arroz Doce",
-      "en": "Sweet Rice",
+      "pt": "Secretos de Porco",
+      "en": "Grilled pork secreto",
       "alergenios": [
         "A",
         "B",
-        "I",
-        "M"
+        "C",
+        "F"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
+      "alergenios": [
+        "A",
+        "B",
+        "G"
       ]
     }
   },
