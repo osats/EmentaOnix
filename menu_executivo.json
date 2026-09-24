@@ -1,40 +1,35 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-23",
+  "data": "2026-09-24",
   "preco": 19.5,
-  "atualizado": "2026-09-23T12:18:53",
+  "atualizado": "2026-09-24T11:51:13",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
+      "pt": "Sopa à Lavrador",
+      "en": "Red Beans Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Dourada no Forno",
-      "en": "Roasted Seabream",
+      "pt": "Bacalhau à Brás",
+      "en": "Codfish with straw potatoes, eggs, onions and olives",
       "alergenios": [
-        "O",
-        "B"
+        "B",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Secretos de Porco",
-      "en": "Grilled pork secreto",
+      "pt": "Lasanha",
+      "en": "Lasagna",
       "alergenios": [
         "A",
         "B",
-        "C",
-        "F"
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
-      "alergenios": [
-        "A",
-        "B",
-        "G"
-      ]
+      "pt": "Mousse de Maracujá",
+      "en": "",
+      "alergenios": []
     }
   },
   "rodape": {
