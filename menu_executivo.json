@@ -1,35 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-24",
+  "data": "2026-09-25",
   "preco": 19.5,
-  "atualizado": "2026-09-24T11:51:13",
+  "atualizado": "2026-09-25T11:00:07",
   "pratos": {
     "sopa": {
-      "pt": "Sopa à Lavrador",
-      "en": "Red Beans Soup",
-      "alergenios": []
-    },
-    "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
       "alergenios": [
-        "B",
-        "O"
-      ]
-    },
-    "carne": {
-      "pt": "Lasanha",
-      "en": "Lasagna",
-      "alergenios": [
-        "A",
-        "B",
         "E"
       ]
     },
-    "sobremesa": {
-      "pt": "Mousse de Maracujá",
+    "peixe": {
+      "pt": "Tentáculos à Lagareiro",
+      "en": "Roasted squid tentacles with potatoes",
+      "alergenios": [
+        "M"
+      ]
+    },
+    "carne": {
+      "pt": "Bife de Frango c/ arroz de tomate",
       "en": "",
-      "alergenios": []
+      "alergenios": [
+        "A",
+        "I"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
+      "alergenios": [
+        "A",
+        "B",
+        "I"
+      ]
     }
   },
   "rodape": {
