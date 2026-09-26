@@ -1,38 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-25",
+  "data": "2026-09-26",
   "preco": 19.5,
-  "atualizado": "2026-09-25T11:00:07",
+  "atualizado": "2026-09-26T11:47:58",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Alho Francês",
-      "en": "Leek Soup",
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
       "alergenios": [
-        "E"
+        "B",
+        "N"
       ]
     },
     "peixe": {
-      "pt": "Tentáculos à Lagareiro",
-      "en": "Roasted squid tentacles with potatoes",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
-        "M"
+        "O",
+        "B",
+        "G"
       ]
     },
     "carne": {
-      "pt": "Bife de Frango c/ arroz de tomate",
-      "en": "",
+      "pt": "Vitela na Púcara",
+      "en": "Stewed veal with fried potatoes,  peas and carrots",
       "alergenios": [
-        "A",
-        "I"
+        "D",
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Mousse de Chocolate",
-      "en": "Chocolate Mousse",
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "G"
       ]
     }
   },
