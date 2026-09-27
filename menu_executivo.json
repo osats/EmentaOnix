@@ -1,42 +1,33 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-26",
+  "data": "2026-09-27",
   "preco": 19.5,
-  "atualizado": "2026-09-26T11:47:58",
+  "atualizado": "2026-09-27T11:59:02",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
-      "alergenios": [
-        "B",
-        "N"
-      ]
+      "pt": "Sopa Juliana",
+      "en": "Portuguese Julienne Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
-      "alergenios": [
-        "O",
-        "B",
-        "G"
-      ]
+      "pt": "Salmão com batata assada e migas",
+      "en": "[Erro de traducao: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function]",
+      "alergenios": []
     },
     "carne": {
-      "pt": "Vitela na Púcara",
-      "en": "Stewed veal with fried potatoes,  peas and carrots",
+      "pt": "Frango assado à Avó",
+      "en": "Roasted Chicken with rice and salad",
       "alergenios": [
-        "D",
-        "E"
+        "B",
+        "A",
+        "C",
+        "G"
       ]
     },
     "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
-      "alergenios": [
-        "A",
-        "B",
-        "G"
-      ]
+      "pt": "Creme inglês com doce de ovos",
+      "en": "",
+      "alergenios": []
     }
   },
   "rodape": {
