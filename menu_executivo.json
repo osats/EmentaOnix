@@ -2,7 +2,7 @@
   "tipo": "menu_executivo",
   "data": "2026-09-27",
   "preco": 19.5,
-  "atualizado": "2026-09-27T12:02:05",
+  "atualizado": "2026-09-27T12:03:38",
   "pratos": {
     "sopa": {
       "pt": "Sopa Juliana",
@@ -10,9 +10,14 @@
       "alergenios": []
     },
     "peixe": {
-      "pt": "Salmão com batata assada e migas",
-      "en": "[Erro de traducao: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function]",
-      "alergenios": []
+      "pt": "Salmão no Forno",
+      "en": "Roasted Salmon",
+      "alergenios": [
+        "A",
+        "B",
+        "C",
+        "G"
+      ]
     },
     "carne": {
       "pt": "Frango assado à Avó",
