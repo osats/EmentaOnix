@@ -1,36 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-28",
+  "data": "2026-09-29",
   "preco": 19.5,
-  "atualizado": "2026-09-28T12:09:43",
+  "atualizado": "2026-09-29T11:05:20",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Espinafres",
-      "en": "Spinach Soup",
-      "alergenios": [
-        "B",
-        "E"
-      ]
+      "pt": "Sopa camponesa",
+      "en": "Country-style soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Dourada no Forno",
-      "en": "Roasted Seabream",
+      "pt": "Pescada Frita com arroz de tomate",
+      "en": "Fried Whitefish  with tomato rice",
       "alergenios": [
-        "O",
-        "B"
+        "A",
+        "D",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Fêveras com arroz e feijão preto",
-      "en": "Pork steaks with rice and black beans",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Gelatina",
-      "en": "Gelatin",
+      "pt": "Tirinhas de entremeada",
+      "en": "Pork belly strips",
       "alergenios": [
         "A",
-        "B"
+        "C",
+        "F"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
+      "alergenios": [
+        "A",
+        "B",
+        "G"
       ]
     }
   },
