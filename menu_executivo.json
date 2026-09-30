@@ -1,39 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-29",
+  "data": "2026-09-30",
   "preco": 19.5,
-  "atualizado": "2026-09-29T11:09:00",
+  "atualizado": "2026-09-30T11:10:11",
   "pratos": {
     "sopa": {
-      "pt": "Sopa camponesa",
-      "en": "Country-style soup",
+      "pt": "Sopa de Feijão Verde",
+      "en": "Green Bean Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Pescada Frita com arroz de tomate",
-      "en": "Fried Whitefish  with tomato rice",
+      "pt": "Bacalhau à Brás",
+      "en": "Codfish with straw potatoes, eggs, onions and olives",
       "alergenios": [
-        "A",
-        "D",
+        "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Tirinhas de entremeada",
-      "en": "Pork belly strips",
+      "pt": "Vitela à Lafões",
+      "en": "Lafões roasted Veal",
       "alergenios": [
         "A",
         "C",
-        "F"
+        "F",
+        "G"
       ]
     },
     "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
+      "pt": "Mousse de Oreo",
+      "en": "Oreo mousse",
       "alergenios": [
         "A",
         "B",
-        "G"
+        "C"
       ]
     }
   },
