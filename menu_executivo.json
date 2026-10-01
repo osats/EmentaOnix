@@ -1,39 +1,35 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-09-30",
+  "data": "2026-10-01",
   "preco": 19.5,
-  "atualizado": "2026-09-30T11:10:16",
+  "atualizado": "2026-10-01T13:22:50",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
+      "pt": "Sopa de Alface",
+      "en": "Lettuce Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
+        "O",
         "B",
-        "O"
-      ]
-    },
-    "carne": {
-      "pt": "Vitela à Lafões",
-      "en": "Lafões roasted Veal",
-      "alergenios": [
-        "A",
-        "C",
-        "F",
         "G"
       ]
     },
+    "carne": {
+      "pt": "Carne de porco à portuguesa",
+      "en": "Portuguese style pork",
+      "alergenios": []
+    },
     "sobremesa": {
-      "pt": "Mousse de Oreo",
-      "en": "Oreo mousse",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
