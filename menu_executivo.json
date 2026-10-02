@@ -1,35 +1,42 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-01",
+  "data": "2026-10-02",
   "preco": 19.5,
-  "atualizado": "2026-10-01T14:45:15",
+  "atualizado": "2026-10-02T12:33:07",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Ervilhas",
-      "en": "Pea Cream Soup",
-      "alergenios": []
+      "pt": "Canja de Galinha",
+      "en": "Chicken Soup",
+      "alergenios": [
+        "A"
+      ]
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Salmão no Forno",
+      "en": "Roasted Salmon",
       "alergenios": [
-        "O",
+        "A",
         "B",
+        "C",
         "G"
       ]
     },
     "carne": {
-      "pt": "Carne de porco à portuguesa",
-      "en": "Portuguese style pork",
-      "alergenios": []
+      "pt": "Vitela Assada com batata à Padeiro",
+      "en": "Roasted Veal sided with Roasted Potatoes",
+      "alergenios": [
+        "B",
+        "C",
+        "G"
+      ]
     },
     "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Baba de Camelo",
+      "en": "Caramel Mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "C"
       ]
     }
   },
