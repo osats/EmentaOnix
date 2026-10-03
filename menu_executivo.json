@@ -1,42 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-02",
+  "data": "2026-10-03",
   "preco": 19.5,
-  "atualizado": "2026-10-02T12:33:52",
+  "atualizado": "2026-10-03T10:50:22",
   "pratos": {
     "sopa": {
-      "pt": "Canja de Galinha",
-      "en": "Chicken Soup",
+      "pt": "Caldo Verde",
+      "en": "Green Soup",
       "alergenios": [
         "A"
       ]
     },
     "peixe": {
-      "pt": "Salmão no Forno",
-      "en": "Roasted Salmon",
+      "pt": "Filetes à Marinheiro",
+      "en": "Hake Fillets  with seafood sauce",
       "alergenios": [
         "A",
-        "B",
-        "C",
-        "G"
+        "M",
+        "O",
+        "P"
       ]
     },
     "carne": {
-      "pt": "Vitela Assada com batata à Padeiro",
-      "en": "Roasted Veal sided with Roasted Potatoes",
+      "pt": "Vitela na Púcara",
+      "en": "Stewed veal with fried potatoes,  peas and carrots",
       "alergenios": [
-        "B",
-        "C",
-        "G"
+        "D",
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Baba de Camelo",
-      "en": "Caramel Mousse with condensed milk and eggs",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
