@@ -1,41 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-03",
+  "data": "2026-10-04",
   "preco": 19.5,
-  "atualizado": "2026-10-03T10:50:22",
+  "atualizado": "2026-10-04T11:35:01",
   "pratos": {
     "sopa": {
-      "pt": "Caldo Verde",
-      "en": "Green Soup",
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
       "alergenios": [
-        "A"
+        "B",
+        "N"
       ]
     },
     "peixe": {
-      "pt": "Filetes à Marinheiro",
-      "en": "Hake Fillets  with seafood sauce",
+      "pt": "Salmão com Molho de Manteiga",
+      "en": "Salmon with Butter Sauce",
       "alergenios": [
-        "A",
-        "M",
-        "O",
-        "P"
+        "O"
       ]
     },
     "carne": {
-      "pt": "Vitela na Púcara",
-      "en": "Stewed veal with fried potatoes,  peas and carrots",
-      "alergenios": [
-        "D",
-        "E"
-      ]
-    },
-    "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Bife com três pimentas",
+      "en": "Three pepper Steak",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "F",
+        "G"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
+      "alergenios": [
+        "A",
+        "B",
+        "G"
       ]
     }
   },
