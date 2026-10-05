@@ -1,42 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-04",
+  "data": "2026-10-05",
   "preco": 19.5,
-  "atualizado": "2026-10-04T12:34:24",
+  "atualizado": "2026-10-05T11:41:06",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
+      "pt": "Sopa de Espinafres",
+      "en": "Spinach Soup",
       "alergenios": [
         "B",
-        "N"
+        "E"
       ]
     },
     "peixe": {
-      "pt": "Dourada no Forno",
-      "en": "Roasted Seabream",
+      "pt": "Tentáculos à Lagareiro",
+      "en": "Roasted squid tentacles with potatoes",
       "alergenios": [
-        "O",
-        "B"
+        "M"
       ]
     },
     "carne": {
-      "pt": "Bife com três pimentas",
-      "en": "Three pepper Steak",
+      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
+      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
       "alergenios": [
         "A",
-        "B",
-        "F",
-        "G"
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
+      "pt": "Baba de Camelo",
+      "en": "Caramel Mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
-        "G"
+        "C"
       ]
     }
   },
