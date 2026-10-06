@@ -1,39 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-05",
+  "data": "2026-10-06",
   "preco": 19.5,
-  "atualizado": "2026-10-05T11:41:13",
+  "atualizado": "2026-10-06T11:29:15",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Espinafres",
-      "en": "Spinach Soup",
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
       "alergenios": [
-        "B",
         "E"
       ]
     },
     "peixe": {
-      "pt": "Tentáculos à Lagareiro",
-      "en": "Roasted squid tentacles with potatoes",
+      "pt": "Salmão com batata assada e legumes",
+      "en": "Salmon with roast potatoes and vegetables",
       "alergenios": [
-        "M"
+        "A",
+        "D",
+        "E",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
-      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
-      "alergenios": [
-        "A",
-        "E"
-      ]
+      "pt": "Espetadinhas com arroz de cenoura",
+      "en": "Skewers with Carrot Rice",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Baba de Camelo",
-      "en": "Caramel Mousse with condensed milk and eggs",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
