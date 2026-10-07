@@ -1,38 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-06",
+  "data": "2026-10-07",
   "preco": 19.5,
-  "atualizado": "2026-10-06T11:29:15",
+  "atualizado": "2026-10-07T11:47:23",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Alho Francês",
-      "en": "Leek Soup",
+      "pt": "Creme de Legumes",
+      "en": "Vegetables Cream",
       "alergenios": [
+        "B",
         "E"
       ]
     },
     "peixe": {
-      "pt": "Salmão com batata assada e legumes",
-      "en": "Salmon with roast potatoes and vegetables",
+      "pt": "Bacalhau à Brás",
+      "en": "Codfish with straw potatoes, eggs, onions and olives",
       "alergenios": [
-        "A",
-        "D",
-        "E",
+        "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Espetadinhas com arroz de cenoura",
-      "en": "Skewers with Carrot Rice",
-      "alergenios": []
+      "pt": "Bifinhos de Perú com Arroz de Cogumelos",
+      "en": "Turkey Escalopes with Mushroom Rice",
+      "alergenios": [
+        "B",
+        "C"
+      ]
     },
     "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Gelatina",
+      "en": "Gelatin",
       "alergenios": [
         "A",
-        "B",
-        "I"
+        "B"
       ]
     }
   },
