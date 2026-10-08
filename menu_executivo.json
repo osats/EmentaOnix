@@ -1,36 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-07",
+  "data": "2026-10-08",
   "preco": 19.5,
-  "atualizado": "2026-10-07T13:02:15",
+  "atualizado": "2026-10-08T11:50:32",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Legumes",
-      "en": "Vegetables Cream",
+      "pt": "Caldo Verde",
+      "en": "Green Soup",
       "alergenios": [
-        "B",
-        "E"
+        "A"
       ]
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Pescadinha com todos",
+      "en": "Whitefish with baked potatoes, cabbage, egg",
       "alergenios": [
-        "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Perú Assado c/ Arroz de Cogumelos",
-      "en": "",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Gelatina",
-      "en": "Gelatin",
+      "pt": "Fêveras à salsicheiro",
+      "en": "Stewed pork with sausage and pickles",
       "alergenios": [
         "A",
-        "B"
+        "D",
+        "E"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Pudim de Ovos",
+      "en": "Egg Pudding",
+      "alergenios": [
+        "A",
+        "B",
+        "C"
       ]
     }
   },
