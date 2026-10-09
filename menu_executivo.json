@@ -1,35 +1,37 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-08",
+  "data": "2026-10-09",
   "preco": 19.5,
-  "atualizado": "2026-10-08T11:50:32",
+  "atualizado": "2026-10-09T11:03:58",
   "pratos": {
     "sopa": {
-      "pt": "Caldo Verde",
-      "en": "Green Soup",
+      "pt": "Sopa de Espinafres",
+      "en": "Spinach Soup",
       "alergenios": [
-        "A"
+        "B",
+        "E"
       ]
     },
     "peixe": {
-      "pt": "Pescadinha com todos",
-      "en": "Whitefish with baked potatoes, cabbage, egg",
+      "pt": "Dourada Grelhada",
+      "en": "Grilled seabream",
       "alergenios": [
         "O"
       ]
     },
     "carne": {
-      "pt": "Fêveras à salsicheiro",
-      "en": "Stewed pork with sausage and pickles",
+      "pt": "Secretos de Porco",
+      "en": "Grilled pork secreto",
       "alergenios": [
         "A",
-        "D",
-        "E"
+        "B",
+        "C",
+        "F"
       ]
     },
     "sobremesa": {
-      "pt": "Pudim de Ovos",
-      "en": "Egg Pudding",
+      "pt": "Baba de Camelo",
+      "en": "Caramel Mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
