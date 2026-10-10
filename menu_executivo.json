@@ -1,41 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-09",
+  "data": "2026-10-10",
   "preco": 19.5,
-  "atualizado": "2026-10-09T11:03:58",
+  "atualizado": "2026-10-10T10:42:52",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Espinafres",
-      "en": "Spinach Soup",
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
       "alergenios": [
         "B",
-        "E"
+        "N"
       ]
     },
     "peixe": {
-      "pt": "Dourada Grelhada",
-      "en": "Grilled seabream",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
-        "O"
+        "O",
+        "B",
+        "G"
       ]
     },
     "carne": {
-      "pt": "Secretos de Porco",
-      "en": "Grilled pork secreto",
+      "pt": "Vitela na Púcara",
+      "en": "Stewed veal with fried potatoes,  peas and carrots",
       "alergenios": [
-        "A",
-        "B",
-        "C",
-        "F"
+        "D",
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Baba de Camelo",
-      "en": "Caramel Mousse with condensed milk and eggs",
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
