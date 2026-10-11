@@ -1,41 +1,40 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-10",
+  "data": "2026-10-11",
   "preco": 19.5,
-  "atualizado": "2026-10-10T10:42:52",
+  "atualizado": "2026-10-11T12:23:05",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
-      "alergenios": [
-        "B",
-        "N"
-      ]
+      "pt": "Sopa Juliana",
+      "en": "Portuguese Julienne Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Filete com arroz de tomate",
+      "en": "Hake fillet with tomato rice",
       "alergenios": [
-        "O",
-        "B",
-        "G"
+        "A",
+        "C",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Vitela na Púcara",
-      "en": "Stewed veal with fried potatoes,  peas and carrots",
+      "pt": "Frango assado à Avó",
+      "en": "Roasted Chicken with rice and salad",
       "alergenios": [
-        "D",
-        "E"
+        "B",
+        "A",
+        "C",
+        "G"
       ]
     },
     "sobremesa": {
-      "pt": "Mousse de Chocolate",
-      "en": "Chocolate Mousse",
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "G"
       ]
     }
   },
