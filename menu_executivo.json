@@ -1,39 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-12",
+  "data": "2026-10-13",
   "preco": 19.5,
-  "atualizado": "2026-10-12T12:21:49",
+  "atualizado": "2026-10-13T12:21:28",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
       "alergenios": [
-        "B",
-        "N"
+        "E"
       ]
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Pescada à Zé do Pipo",
+      "en": "Whitefish au Gratin with smashed potatoes",
       "alergenios": [
-        "O",
         "B",
-        "G"
+        "G",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Espetada Rústica com Arroz e feijão Preto",
-      "en": "",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
+      "pt": "Escalopes de vitela aux champignons",
+      "en": "Veal escalopes with mushrooms  sided with rice and fried potatoes",
       "alergenios": [
         "A",
-        "B",
-        "G"
+        "D",
+        "E",
+        "Q"
       ]
+    },
+    "sobremesa": {
+      "pt": "Maça Assada",
+      "en": "Baked Apple",
+      "alergenios": []
     }
   },
   "rodape": {
