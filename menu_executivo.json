@@ -1,39 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-13",
+  "data": "2026-10-14",
   "preco": 19.5,
-  "atualizado": "2026-10-13T12:21:28",
+  "atualizado": "2026-10-14T11:36:58",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Alho Francês",
-      "en": "Leek Soup",
-      "alergenios": [
-        "E"
-      ]
+      "pt": "Sopa de Macedónia",
+      "en": "Macedonian soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Pescada à Zé do Pipo",
-      "en": "Whitefish au Gratin with smashed potatoes",
+      "pt": "Bacalhau à Brás",
+      "en": "Codfish with straw potatoes, eggs, onions and olives",
       "alergenios": [
         "B",
-        "G",
         "O"
       ]
     },
     "carne": {
-      "pt": "Escalopes de vitela aux champignons",
-      "en": "Veal escalopes with mushrooms  sided with rice and fried potatoes",
+      "pt": "Panadinhos à Milanesa",
+      "en": "Breaded cutlets Milanese style",
       "alergenios": [
         "A",
-        "D",
-        "E",
-        "Q"
+        "C"
       ]
     },
     "sobremesa": {
-      "pt": "Maça Assada",
-      "en": "Baked Apple",
-      "alergenios": []
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
+      "alergenios": [
+        "A",
+        "B",
+        "G"
+      ]
     }
   },
   "rodape": {
