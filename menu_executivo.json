@@ -1,29 +1,29 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-14",
+  "data": "2026-10-15",
   "preco": 19.5,
-  "atualizado": "2026-10-14T11:37:04",
+  "atualizado": "2026-10-15T11:44:01",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Macedónia",
-      "en": "Macedonian soup",
-      "alergenios": []
+      "pt": "Caldo Verde",
+      "en": "Green Soup",
+      "alergenios": [
+        "A"
+      ]
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Arroz de Polvo",
+      "en": "Octopus Rice",
       "alergenios": [
-        "B",
-        "O"
+        "D",
+        "O",
+        "P"
       ]
     },
     "carne": {
-      "pt": "Panadinhos à Milanesa",
-      "en": "Breaded cutlets Milanese style",
-      "alergenios": [
-        "A",
-        "C"
-      ]
+      "pt": "Misto de carne de Porco grelhada",
+      "en": "mixed pork cuts",
+      "alergenios": []
     },
     "sobremesa": {
       "pt": "Natas do Céu",
