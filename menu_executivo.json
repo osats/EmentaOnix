@@ -1,33 +1,30 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-18",
+  "data": "2026-10-19",
   "preco": 19.5,
-  "atualizado": "2026-10-18T10:57:35",
+  "atualizado": "2026-10-19T11:50:19",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
-      "alergenios": [
-        "B",
-        "N"
-      ]
+      "pt": "Sopa de Couve-flor",
+      "en": "Cauliflower soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Miminhos de Pescada",
-      "en": "Hake Fillets",
+      "pt": "Dourada no Forno",
+      "en": "Roasted Seabream",
       "alergenios": [
-        "D",
-        "O"
+        "O",
+        "B"
       ]
     },
     "carne": {
-      "pt": "Frango assado à Avó",
-      "en": "Roasted Chicken with rice and salad",
+      "pt": "Secretos de Porco",
+      "en": "Grilled pork secreto",
       "alergenios": [
-        "B",
         "A",
+        "B",
         "C",
-        "G"
+        "F"
       ]
     },
     "sobremesa": {
