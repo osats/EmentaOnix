@@ -1,39 +1,36 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-20",
+  "data": "2026-10-21",
   "preco": 19.5,
-  "atualizado": "2026-10-20T11:20:51",
+  "atualizado": "2026-10-21T10:59:48",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Cenoura",
-      "en": "Carrot Cream",
+      "pt": "Sopa de Espinafres",
+      "en": "Spinach Soup",
       "alergenios": [
         "B",
-        "N"
+        "E"
       ]
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Salmão com molho de amêndoa e ervas",
+      "en": "Salmon with almond and herb sauce",
       "alergenios": [
-        "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Vitela na Púcara",
-      "en": "Stewed veal with fried potatoes,  peas and carrots",
-      "alergenios": [
-        "D",
-        "E"
-      ]
+      "pt": "Cordon bleu com arroz de cenoura",
+      "en": "Cordon bleu with carrot rice",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Gelatina",
-      "en": "Gelatin",
+      "pt": "Pudim de Ovos",
+      "en": "Egg Pudding",
       "alergenios": [
         "A",
-        "B"
+        "B",
+        "C"
       ]
     }
   },
