@@ -1,36 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-21",
+  "data": "2026-10-22",
   "preco": 19.5,
-  "atualizado": "2026-10-21T10:59:48",
+  "atualizado": "2026-10-22T12:07:43",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Espinafres",
-      "en": "Spinach Soup",
-      "alergenios": [
-        "B",
-        "E"
-      ]
+      "pt": "Sopa à Lavrador",
+      "en": "Red Beans Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Salmão com molho de amêndoa e ervas",
-      "en": "Salmon with almond and herb sauce",
+      "pt": "Pescada Frita com Arroz de Cenoura",
+      "en": "Fried Hake with Rice",
       "alergenios": [
+        "D",
+        "E",
         "O"
       ]
     },
     "carne": {
-      "pt": "Cordon bleu com arroz de cenoura",
-      "en": "Cordon bleu with carrot rice",
-      "alergenios": []
+      "pt": "Rancho à moda de Viseu",
+      "en": "Viseu-style Portuguese stew",
+      "alergenios": [
+        "A",
+        "I"
+      ]
     },
     "sobremesa": {
-      "pt": "Pudim de Ovos",
-      "en": "Egg Pudding",
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
