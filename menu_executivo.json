@@ -1,34 +1,31 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-22",
+  "data": "2026-10-23",
   "preco": 19.5,
-  "atualizado": "2026-10-22T12:07:43",
+  "atualizado": "2026-10-23T11:27:19",
   "pratos": {
     "sopa": {
-      "pt": "Sopa à Lavrador",
-      "en": "Red Beans Soup",
+      "pt": "Sopa de Feijão Verde",
+      "en": "Green Bean Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Pescada Frita com Arroz de Cenoura",
-      "en": "Fried Hake with Rice",
+      "pt": "Filete com arroz de tomate",
+      "en": "Hake fillet with tomato rice",
       "alergenios": [
-        "D",
-        "E",
+        "A",
+        "C",
         "O"
       ]
     },
     "carne": {
-      "pt": "Rancho à moda de Viseu",
-      "en": "Viseu-style Portuguese stew",
-      "alergenios": [
-        "A",
-        "I"
-      ]
+      "pt": "Costeletas à portuguesa com arroz e batata frita",
+      "en": "Portuguese style cutlets with rice and French fries",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Mousse de Chocolate",
-      "en": "Chocolate Mousse",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
