@@ -1,35 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-23",
+  "data": "2026-10-24",
   "preco": 19.5,
-  "atualizado": "2026-10-23T11:27:27",
+  "atualizado": "2026-10-24T10:14:49",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
-      "alergenios": []
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
+      "alergenios": [
+        "B",
+        "N"
+      ]
     },
     "peixe": {
-      "pt": "Filete com arroz de tomate",
-      "en": "Hake fillet with tomato rice",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
-        "A",
-        "C",
-        "O"
+        "O",
+        "B",
+        "G"
       ]
     },
     "carne": {
-      "pt": "Costeletas à portuguesa com arroz e batata frita",
-      "en": "Portuguese style cutlets with rice and French fries",
-      "alergenios": []
+      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
+      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
+      "alergenios": [
+        "A",
+        "E"
+      ]
     },
     "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "G"
       ]
     }
   },
