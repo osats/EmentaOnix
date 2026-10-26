@@ -1,38 +1,34 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-25",
+  "data": "2026-10-26",
   "preco": 19.5,
-  "atualizado": "2026-10-25T10:39:00",
+  "atualizado": "2026-10-26T11:28:21",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Espinafres",
-      "en": "Spinach Soup",
-      "alergenios": [
-        "B",
-        "E"
-      ]
+      "pt": "Sopa de Feijão Verde",
+      "en": "Green Bean Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Salmão à Aveirense",
+      "en": "Roasted Salmon with butter sauce",
       "alergenios": [
         "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Bife com três pimentas",
-      "en": "Three pepper Steak",
+      "pt": "Panadinho com Arroz de Tomate",
+      "en": "Schnitzel with Tomato Rice",
       "alergenios": [
         "A",
-        "B",
-        "F",
-        "G"
+        "C",
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Pudim de Ovos",
-      "en": "Egg Pudding",
+      "pt": "Mousse de Oreo",
+      "en": "Oreo mousse",
       "alergenios": [
         "A",
         "B",
