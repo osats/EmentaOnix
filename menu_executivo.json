@@ -2,7 +2,7 @@
   "tipo": "menu_executivo",
   "data": "2026-10-27",
   "preco": 19.5,
-  "atualizado": "2026-10-27T10:29:43",
+  "atualizado": "2026-10-27T10:38:06",
   "pratos": {
     "sopa": {
       "pt": "Sopa Juliana",
@@ -19,14 +19,9 @@
       ]
     },
     "carne": {
-      "pt": "Frango assado à Avó",
-      "en": "Roasted Chicken with rice and salad",
-      "alergenios": [
-        "B",
-        "A",
-        "C",
-        "G"
-      ]
+      "pt": "Frango Assado Aromatizado com Limão",
+      "en": "Roast Chicken Flavoured with Lemon",
+      "alergenios": []
     },
     "sobremesa": {
       "pt": "Panacota de frutos vermelhos",
