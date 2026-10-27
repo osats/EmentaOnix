@@ -1,38 +1,40 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-26",
+  "data": "2026-10-27",
   "preco": 19.5,
-  "atualizado": "2026-10-26T11:28:21",
+  "atualizado": "2026-10-27T10:29:43",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
+      "pt": "Sopa Juliana",
+      "en": "Portuguese Julienne Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Salmão à Aveirense",
-      "en": "Roasted Salmon with butter sauce",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
+        "O",
         "B",
-        "O"
+        "G"
       ]
     },
     "carne": {
-      "pt": "Panadinho com Arroz de Tomate",
-      "en": "Schnitzel with Tomato Rice",
+      "pt": "Frango assado à Avó",
+      "en": "Roasted Chicken with rice and salad",
       "alergenios": [
+        "B",
         "A",
         "C",
-        "E"
+        "G"
       ]
     },
     "sobremesa": {
-      "pt": "Mousse de Oreo",
-      "en": "Oreo mousse",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
