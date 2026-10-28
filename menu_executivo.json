@@ -2,7 +2,7 @@
   "tipo": "menu_executivo",
   "data": "2026-10-28",
   "preco": 19.5,
-  "atualizado": "2026-10-28T10:56:24",
+  "atualizado": "2026-10-28T11:00:13",
   "pratos": {
     "sopa": {
       "pt": "Sopa de legumes",
@@ -11,7 +11,7 @@
     },
     "peixe": {
       "pt": "Filetes com arroz de cenoura",
-      "en": "",
+      "en": "Hake fillets with carrot rice",
       "alergenios": [
         "C",
         "O"
