@@ -1,35 +1,37 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-27",
+  "data": "2026-10-28",
   "preco": 19.5,
-  "atualizado": "2026-10-27T10:38:06",
+  "atualizado": "2026-10-28T10:56:24",
   "pratos": {
     "sopa": {
-      "pt": "Sopa Juliana",
-      "en": "Portuguese Julienne Soup",
+      "pt": "Sopa de legumes",
+      "en": "Vegetable soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Filetes com arroz de cenoura",
+      "en": "",
       "alergenios": [
-        "O",
-        "B",
-        "G"
+        "C",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Frango Assado Aromatizado com Limão",
-      "en": "Roast Chicken Flavoured with Lemon",
-      "alergenios": []
+      "pt": "Vitela na Púcara",
+      "en": "Stewed veal with fried potatoes,  peas and carrots",
+      "alergenios": [
+        "D",
+        "E"
+      ]
     },
     "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Pudim de Ovos",
+      "en": "Egg Pudding",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "C"
       ]
     }
   },
