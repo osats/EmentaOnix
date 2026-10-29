@@ -1,37 +1,30 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-28",
+  "data": "2026-10-29",
   "preco": 19.5,
-  "atualizado": "2026-10-28T11:00:13",
+  "atualizado": "2026-10-29T12:03:30",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de legumes",
-      "en": "Vegetable soup",
+      "pt": "Creme de Ervilhas",
+      "en": "Pea Cream Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Filetes com arroz de cenoura",
-      "en": "Hake fillets with carrot rice",
-      "alergenios": [
-        "C",
-        "O"
-      ]
+      "pt": "Dourada no forno com batata malandrinha",
+      "en": "Baked sea bream",
+      "alergenios": []
     },
     "carne": {
-      "pt": "Vitela na Púcara",
-      "en": "Stewed veal with fried potatoes,  peas and carrots",
-      "alergenios": [
-        "D",
-        "E"
-      ]
+      "pt": "Espetadas mistas com arroz e feijão preto",
+      "en": "Mixed kebabs with rice and black beans",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Pudim de Ovos",
-      "en": "Egg Pudding",
+      "pt": "Gelatina",
+      "en": "Gelatin",
       "alergenios": [
         "A",
-        "B",
-        "C"
+        "B"
       ]
     }
   },
