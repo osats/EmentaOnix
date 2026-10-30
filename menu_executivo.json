@@ -1,30 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-29",
+  "data": "2026-10-30",
   "preco": 19.5,
-  "atualizado": "2026-10-29T12:03:33",
+  "atualizado": "2026-10-30T11:43:03",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Ervilhas",
-      "en": "Pea Cream Soup",
-      "alergenios": []
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
+      "alergenios": [
+        "E"
+      ]
     },
     "peixe": {
-      "pt": "Dourada no forno com batata malandrinha",
-      "en": "Baked sea bream",
-      "alergenios": []
+      "pt": "Bacalhau à Brás",
+      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "alergenios": [
+        "B",
+        "O"
+      ]
     },
     "carne": {
-      "pt": "Espetadas mistas com arroz e feijão preto",
-      "en": "Mixed kebabs with rice and black beans",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Gelatina",
-      "en": "Gelatin",
+      "pt": "Secretos de Porco",
+      "en": "Grilled pork secreto",
       "alergenios": [
         "A",
-        "B"
+        "B",
+        "C",
+        "F"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Natas do Céu",
+      "en": "Heavenly Cream",
+      "alergenios": [
+        "A",
+        "B",
+        "G"
       ]
     }
   },
