@@ -1,41 +1,39 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-10-30",
+  "data": "2026-10-31",
   "preco": 19.5,
-  "atualizado": "2026-10-30T11:43:03",
+  "atualizado": "2026-10-31T11:09:33",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Alho Francês",
-      "en": "Leek Soup",
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
       "alergenios": [
-        "E"
+        "B",
+        "N"
       ]
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Tentáculos à Lagareiro",
+      "en": "Roasted squid tentacles with potatoes",
       "alergenios": [
-        "B",
-        "O"
+        "M"
       ]
     },
     "carne": {
-      "pt": "Secretos de Porco",
-      "en": "Grilled pork secreto",
+      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
+      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
       "alergenios": [
         "A",
-        "B",
-        "C",
-        "F"
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Natas do Céu",
-      "en": "Heavenly Cream",
+      "pt": "Baba de Camelo",
+      "en": "Caramel Mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
-        "G"
+        "C"
       ]
     }
   },
