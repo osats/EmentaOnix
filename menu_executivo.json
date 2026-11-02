@@ -1,13 +1,16 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-01",
+  "data": "2026-11-02",
   "preco": 19.5,
-  "atualizado": "2026-11-01T12:11:52",
+  "atualizado": "2026-11-02T11:57:01",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de legumes",
-      "en": "Vegetable soup",
-      "alergenios": []
+      "pt": "Sopa de Espinafres",
+      "en": "Spinach Soup",
+      "alergenios": [
+        "B",
+        "E"
+      ]
     },
     "peixe": {
       "pt": "Bacalhau Espiritual",
@@ -19,13 +22,17 @@
       ]
     },
     "carne": {
-      "pt": "Bife à Portuguesa",
-      "en": "",
-      "alergenios": []
+      "pt": "Lombo assado com molho de ameixa",
+      "en": "Roast sirloin with plum sauce",
+      "alergenios": [
+        "A",
+        "C",
+        "F"
+      ]
     },
     "sobremesa": {
-      "pt": "Mousse de Chocolate",
-      "en": "Chocolate Mousse",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
