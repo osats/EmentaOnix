@@ -1,38 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-02",
+  "data": "2026-11-03",
   "preco": 19.5,
-  "atualizado": "2026-11-02T11:57:01",
+  "atualizado": "2026-11-03T11:30:17",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Espinafres",
-      "en": "Spinach Soup",
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
       "alergenios": [
         "B",
-        "E"
+        "N"
       ]
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
-      "en": "Cod with potatoes, bread and carrots au gratin",
+      "pt": "Dourada no Forno",
+      "en": "Roasted Seabream",
       "alergenios": [
         "O",
-        "B",
-        "G"
+        "B"
       ]
     },
     "carne": {
-      "pt": "Lombo assado com molho de ameixa",
-      "en": "Roast sirloin with plum sauce",
+      "pt": "Vitela Assada com molho de Cogumelos",
+      "en": "Roast Veal with Mushroom Sauce",
       "alergenios": [
-        "A",
-        "C",
-        "F"
+        "D",
+        "E",
+        "F",
+        "Q"
       ]
     },
     "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
       "alergenios": [
         "A",
         "B",
