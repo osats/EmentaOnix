@@ -1,34 +1,33 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-04",
+  "data": "2026-11-05",
   "preco": 19.5,
-  "atualizado": "2026-11-04T13:44:25",
+  "atualizado": "2026-11-05T13:02:41",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
-      "alergenios": []
-    },
-    "peixe": {
-      "pt": "Pescada Frita com arroz de tomate",
-      "en": "Fried Whitefish  with tomato rice",
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
       "alergenios": [
-        "A",
-        "D",
-        "O"
+        "E"
       ]
     },
+    "peixe": {
+      "pt": "Arroz de tamboril",
+      "en": "Monkfish rice",
+      "alergenios": []
+    },
     "carne": {
-      "pt": "Carne de porco à alentejana",
-      "en": "Portuguese pork and clams",
+      "pt": "Grelhada mista",
+      "en": "Mixed grilled meat",
       "alergenios": []
     },
     "sobremesa": {
-      "pt": "Gelatina",
-      "en": "Gelatin",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
-        "B"
+        "B",
+        "I"
       ]
     }
   },
