@@ -1,33 +1,41 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-05",
+  "data": "2026-11-06",
   "preco": 19.5,
-  "atualizado": "2026-11-05T13:02:48",
+  "atualizado": "2026-11-06T12:51:11",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Alho Francês",
-      "en": "Leek Soup",
+      "pt": "Creme de Legumes",
+      "en": "Vegetables Cream",
       "alergenios": [
+        "B",
         "E"
       ]
     },
     "peixe": {
-      "pt": "Arroz de tamboril",
-      "en": "Monkfish rice",
-      "alergenios": []
+      "pt": "Dourada no Forno",
+      "en": "Roasted Seabream",
+      "alergenios": [
+        "O",
+        "B"
+      ]
     },
     "carne": {
-      "pt": "Grelhada mista",
-      "en": "Mixed grilled meat",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Perninhas de Frango estufadas à Avó",
+      "en": "Stewed Chicken with mashed potatoes",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "C"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Pudim da casa",
+      "en": "House pudding",
+      "alergenios": [
+        "A",
+        "B",
+        "C"
       ]
     }
   },
