@@ -1,37 +1,37 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-06",
+  "data": "2026-11-07",
   "preco": 19.5,
-  "atualizado": "2026-11-06T12:51:11",
+  "atualizado": "2026-11-07T11:25:48",
   "pratos": {
     "sopa": {
-      "pt": "Creme de Legumes",
-      "en": "Vegetables Cream",
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
       "alergenios": [
         "B",
-        "E"
+        "N"
       ]
     },
     "peixe": {
-      "pt": "Dourada no Forno",
-      "en": "Roasted Seabream",
+      "pt": "Bacalhau Espiritual",
+      "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
         "O",
-        "B"
+        "B",
+        "G"
       ]
     },
     "carne": {
-      "pt": "Perninhas de Frango estufadas à Avó",
-      "en": "Stewed Chicken with mashed potatoes",
+      "pt": "Assado Rústico de Porco e Vitela com Batata e Legumes",
+      "en": "Rustic Pork and Veal Roast with Potatoes and Vegetables",
       "alergenios": [
         "A",
-        "B",
-        "C"
+        "E"
       ]
     },
     "sobremesa": {
-      "pt": "Pudim da casa",
-      "en": "House pudding",
+      "pt": "Pudim Flan",
+      "en": "Flan Pudding",
       "alergenios": [
         "A",
         "B",
