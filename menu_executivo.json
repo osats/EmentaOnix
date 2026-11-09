@@ -1,39 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-08",
+  "data": "2026-11-09",
   "preco": 19.5,
-  "atualizado": "2026-11-08T12:03:07",
+  "atualizado": "2026-11-09T11:03:41",
   "pratos": {
     "sopa": {
-      "pt": "Sopa Juliana",
-      "en": "Portuguese Julienne Soup",
+      "pt": "Sopa de Agrião",
+      "en": "Watercress Soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Filetes à Marinheiro",
-      "en": "Hake Fillets  with seafood sauce",
+      "pt": "Bacalhau gratinado com espinafres",
+      "en": "Cod au gratin with spinach",
       "alergenios": [
-        "A",
-        "M",
-        "O",
-        "P"
+        "B",
+        "C",
+        "O"
       ]
     },
     "carne": {
-      "pt": "Vitela na Púcara",
-      "en": "Stewed veal with fried potatoes,  peas and carrots",
+      "pt": "Vitelinha estufada lentamente com ervilhas",
+      "en": "Slow-braised veal with peas",
       "alergenios": [
-        "D",
-        "E"
+        "C",
+        "F"
       ]
     },
     "sobremesa": {
-      "pt": "Baba de Camelo",
-      "en": "Caramel Mousse with condensed milk and eggs",
+      "pt": "Mousse de Chocolate",
+      "en": "Chocolate Mousse",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
