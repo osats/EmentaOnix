@@ -1,38 +1,40 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-09",
+  "data": "2026-11-10",
   "preco": 19.5,
-  "atualizado": "2026-11-09T11:03:41",
+  "atualizado": "2026-11-10T11:24:50",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Agrião",
-      "en": "Watercress Soup",
-      "alergenios": []
+      "pt": "Caldo Verde",
+      "en": "Green Soup",
+      "alergenios": [
+        "A"
+      ]
     },
     "peixe": {
-      "pt": "Bacalhau gratinado com espinafres",
-      "en": "Cod au gratin with spinach",
+      "pt": "Carapau grelhado com batata dourada e legumes",
+      "en": "Horse mackerel with potatoes and vegetables",
       "alergenios": [
-        "B",
-        "C",
         "O"
       ]
     },
     "carne": {
-      "pt": "Vitelinha estufada lentamente com ervilhas",
-      "en": "Slow-braised veal with peas",
+      "pt": "Vitela Assada com molho de Cogumelos",
+      "en": "Roast Veal with Mushroom Sauce",
       "alergenios": [
-        "C",
-        "F"
+        "D",
+        "E",
+        "F",
+        "Q"
       ]
     },
     "sobremesa": {
-      "pt": "Mousse de Chocolate",
-      "en": "Chocolate Mousse",
+      "pt": "Baba de Camelo",
+      "en": "Caramel Mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "C"
       ]
     }
   },
