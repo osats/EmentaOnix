@@ -1,32 +1,28 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-10",
+  "data": "2026-11-11",
   "preco": 19.5,
-  "atualizado": "2026-11-10T11:24:50",
+  "atualizado": "2026-11-11T11:56:28",
   "pratos": {
     "sopa": {
-      "pt": "Caldo Verde",
-      "en": "Green Soup",
-      "alergenios": [
-        "A"
-      ]
+      "pt": "Sopa de Agrião",
+      "en": "Watercress Soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Carapau grelhado com batata dourada e legumes",
-      "en": "Horse mackerel with potatoes and vegetables",
+      "pt": "Salmão no Forno",
+      "en": "Roasted Salmon",
       "alergenios": [
-        "O"
+        "A",
+        "B",
+        "C",
+        "G"
       ]
     },
     "carne": {
-      "pt": "Vitela Assada com molho de Cogumelos",
-      "en": "Roast Veal with Mushroom Sauce",
-      "alergenios": [
-        "D",
-        "E",
-        "F",
-        "Q"
-      ]
+      "pt": "Costeletas à portuguesa com arroz e batata frita",
+      "en": "Portuguese style cutlets with rice and French fries",
+      "alergenios": []
     },
     "sobremesa": {
       "pt": "Baba de Camelo",
