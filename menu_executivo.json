@@ -1,32 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-11",
+  "data": "2026-11-12",
   "preco": 19.5,
-  "atualizado": "2026-11-11T11:56:28",
+  "atualizado": "2026-11-12T12:29:45",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Agrião",
-      "en": "Watercress Soup",
-      "alergenios": []
+      "pt": "Sopa de Alho Francês",
+      "en": "Leek Soup",
+      "alergenios": [
+        "E"
+      ]
     },
     "peixe": {
-      "pt": "Salmão no Forno",
-      "en": "Roasted Salmon",
+      "pt": "Filetes à Marinheiro",
+      "en": "Hake Fillets  with seafood sauce",
       "alergenios": [
         "A",
-        "B",
-        "C",
-        "G"
+        "M",
+        "O",
+        "P"
       ]
     },
     "carne": {
-      "pt": "Costeletas à portuguesa com arroz e batata frita",
-      "en": "Portuguese style cutlets with rice and French fries",
-      "alergenios": []
+      "pt": "Lasanha",
+      "en": "Lasagna",
+      "alergenios": [
+        "A",
+        "B",
+        "E"
+      ]
     },
     "sobremesa": {
-      "pt": "Baba de Camelo",
-      "en": "Caramel Mousse with condensed milk and eggs",
+      "pt": "Mousse de Oreo",
+      "en": "Oreo mousse",
       "alergenios": [
         "A",
         "B",
