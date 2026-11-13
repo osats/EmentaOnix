@@ -1,42 +1,36 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-12",
+  "data": "2026-11-13",
   "preco": 19.5,
-  "atualizado": "2026-11-12T12:29:45",
+  "atualizado": "2026-11-13T11:57:44",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Alho Francês",
-      "en": "Leek Soup",
-      "alergenios": [
-        "E"
-      ]
+      "pt": "Sopa de legumes",
+      "en": "Vegetable soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Filetes à Marinheiro",
-      "en": "Hake Fillets  with seafood sauce",
+      "pt": "Tentáculos à Lagareiro",
+      "en": "Roasted squid tentacles with potatoes",
       "alergenios": [
-        "A",
-        "M",
-        "O",
-        "P"
+        "M"
       ]
     },
     "carne": {
-      "pt": "Lasanha",
-      "en": "Lasagna",
+      "pt": "Lombo com molho de mostarda",
+      "en": "Roast loin with mustard sauce",
       "alergenios": [
-        "A",
         "B",
-        "E"
+        "F"
       ]
     },
     "sobremesa": {
-      "pt": "Mousse de Oreo",
-      "en": "Oreo mousse",
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red Fruit Pannacotta",
       "alergenios": [
         "A",
         "B",
-        "C"
+        "I"
       ]
     }
   },
