@@ -1,43 +1,43 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-13",
+  "data": "2026-11-14",
   "preco": 19.5,
-  "atualizado": "2026-11-13T11:57:44",
+  "atualizado": "2026-11-14T10:28:03",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de legumes",
-      "en": "Vegetable soup",
-      "alergenios": []
+      "pt": "Creme de Cenoura",
+      "en": "Carrot Cream",
+      "alergenios": [
+        "B",
+        "N"
+      ]
     },
     "peixe": {
-      "pt": "Tentáculos à Lagareiro",
-      "en": "Roasted squid tentacles with potatoes",
+      "pt": "Salmão com Molho de Manteiga",
+      "en": "Salmon with Butter Sauce",
       "alergenios": [
-        "M"
+        "O"
       ]
     },
     "carne": {
-      "pt": "Lombo com molho de mostarda",
-      "en": "Roast loin with mustard sauce",
-      "alergenios": [
-        "B",
-        "F"
-      ]
+      "pt": "Perninha de frango com batata assada",
+      "en": "Chicken leg with roasted potatoes",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red Fruit Pannacotta",
+      "pt": "Baba de Camelo",
+      "en": "Caramel Mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
-        "I"
+        "C"
       ]
     }
   },
   "rodape": {
     "pt": "Menu executivo constituído por couvert, sopa, um prato principal, sobremesa.",
     "en": "Executive menu includes couvert, soup, a main course, dessert.",
-    "horario": "Almoço: 12h00-14h30  |  Jantar: 19h30-21h30"
+    "horario": "Almoço: 12h00–14h30  |  Jantar: 19h30–21h30"
   },
   "alergenios_legenda": {
     "A": {
@@ -46,7 +46,7 @@
       "cor": "#E8652A"
     },
     "B": {
-      "pt": "Leite / Lactose",
+      "pt": "Leite",
       "en": "Milk",
       "cor": "#00BFFF"
     },
@@ -71,8 +71,8 @@
       "cor": "#E67E00"
     },
     "G": {
-      "pt": "Frutos de Casca Rija",
-      "en": "Tree Nuts",
+      "pt": "Frutos de casca rija",
+      "en": "Tree nuts",
       "cor": "#D2691E"
     },
     "H": {
