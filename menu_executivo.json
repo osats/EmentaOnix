@@ -2,15 +2,15 @@
   "tipo": "menu_executivo",
   "data": "2026-11-15",
   "preco": 19.5,
-  "atualizado": "2026-11-15T11:58:24",
+  "atualizado": "2026-11-15T14:09:57",
   "pratos": {
     "sopa": {
-      "pt": "Sopa de Feijão Verde",
-      "en": "Green Bean Soup",
+      "pt": "Sopa de feijão verde",
+      "en": "Green bean soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau Espiritual",
+      "pt": "Bacalhau espiritual",
       "en": "Cod with potatoes, bread and carrots au gratin",
       "alergenios": [
         "B",
@@ -20,7 +20,7 @@
     },
     "carne": {
       "pt": "Bife com três pimentas",
-      "en": "Three pepper Steak",
+      "en": "Three pepper steak",
       "alergenios": [
         "A",
         "B",
@@ -29,8 +29,8 @@
       ]
     },
     "sobremesa": {
-      "pt": "Baba de Camelo",
-      "en": "Caramel Mousse with condensed milk and eggs",
+      "pt": "Baba de camelo",
+      "en": "Caramel mousse with condensed milk and eggs",
       "alergenios": [
         "A",
         "B",
