@@ -1,36 +1,38 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-17",
+  "data": "2026-11-18",
   "preco": 19.5,
-  "atualizado": "2026-11-17T10:53:44",
+  "atualizado": "2026-11-18T11:59:00",
   "pratos": {
     "sopa": {
-      "pt": "Creme de legumes",
-      "en": "Vegetables cream",
-      "alergenios": [
-        "B",
-        "E"
-      ]
+      "pt": "Sopa camponesa",
+      "en": "Country-style soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Lombinhos de pescada envolvidos em bacon crocante",
-      "en": "Crispy bacon-wrapped hake loins",
+      "pt": "Bacalhau à Brás",
+      "en": "Codfish with straw potatoes, eggs, onions and olives",
       "alergenios": [
+        "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Medalhões de vitela com arroz e batata frita",
-      "en": "Veal with rice and French fries",
-      "alergenios": []
-    },
-    "sobremesa": {
-      "pt": "Mousse de Oreo",
-      "en": "Oreo mousse",
+      "pt": "Perninhas de frango estufadas à avó",
+      "en": "Stewed chicken with mashed potatoes",
       "alergenios": [
         "A",
         "B",
         "C"
+      ]
+    },
+    "sobremesa": {
+      "pt": "Panacota de frutos vermelhos",
+      "en": "Red fruit pannacotta",
+      "alergenios": [
+        "A",
+        "B",
+        "I"
       ]
     }
   },
