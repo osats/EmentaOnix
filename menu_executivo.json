@@ -1,38 +1,33 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-18",
+  "data": "2026-11-19",
   "preco": 19.5,
-  "atualizado": "2026-11-18T11:59:00",
+  "atualizado": "2026-11-19T15:51:44",
   "pratos": {
     "sopa": {
-      "pt": "Sopa camponesa",
-      "en": "Country-style soup",
+      "pt": "Sopa juliana",
+      "en": "Portuguese julienne soup",
       "alergenios": []
     },
     "peixe": {
-      "pt": "Bacalhau à Brás",
-      "en": "Codfish with straw potatoes, eggs, onions and olives",
+      "pt": "Pescadinha com todos",
+      "en": "Whitefish with baked potatoes, cabbage, egg",
       "alergenios": [
-        "B",
         "O"
       ]
     },
     "carne": {
-      "pt": "Perninhas de frango estufadas à avó",
-      "en": "Stewed chicken with mashed potatoes",
+      "pt": "Carne de porco à portuguesa",
+      "en": "Portuguese style pork",
+      "alergenios": []
+    },
+    "sobremesa": {
+      "pt": "Pudim de ovos",
+      "en": "Egg pudding",
       "alergenios": [
         "A",
         "B",
         "C"
-      ]
-    },
-    "sobremesa": {
-      "pt": "Panacota de frutos vermelhos",
-      "en": "Red fruit pannacotta",
-      "alergenios": [
-        "A",
-        "B",
-        "I"
       ]
     }
   },
