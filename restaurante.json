@@ -4,7 +4,7 @@
     "pt": "Carta do Restaurante",
     "en": "Restaurant Menu"
   },
-  "atualizado": "2026-09-15T13:26:52",
+  "atualizado": "2026-11-19T15:50:52",
   "categorias": [
     {
       "nome": {
@@ -16,7 +16,7 @@
         {
           "nome": {
             "pt": "Couvert",
-            "en": "Bread, Olives, Pate, Butter, Cheese, Ham"
+            "en": "Bread, olives, pâté, butter, cheese and ham"
           },
           "desc": {
             "pt": "",
@@ -34,7 +34,7 @@
         {
           "nome": {
             "pt": "Ovos mexidos com farinheira",
-            "en": "Scrambled eggs with farinheira"
+            "en": "Scrambled eggs with farinheira sausage"
           },
           "desc": {
             "pt": "",
@@ -48,8 +48,8 @@
         },
         {
           "nome": {
-            "pt": "Camarão à la guillo",
-            "en": "Garlic Shrimp"
+            "pt": "Camarão à guilho",
+            "en": "Garlic prawns"
           },
           "desc": {
             "pt": "",
@@ -64,7 +64,7 @@
         {
           "nome": {
             "pt": "Cogumelos salteados",
-            "en": "Sautéed Mushrooms"
+            "en": "Sautéed mushrooms"
           },
           "desc": {
             "pt": "",
@@ -85,7 +85,7 @@
         {
           "nome": {
             "pt": "Sopa do Dia",
-            "en": "Soup of the Day"
+            "en": "Soup of the day"
           },
           "desc": {
             "pt": "",
@@ -109,7 +109,7 @@
         {
           "nome": {
             "pt": "Omelete Simples",
-            "en": "Omelet"
+            "en": "Plain omelette"
           },
           "desc": {
             "pt": "",
@@ -123,7 +123,7 @@
         {
           "nome": {
             "pt": "Omelete Mista",
-            "en": "Omelet with Cheese and Ham"
+            "en": "Ham and cheese omelette"
           },
           "desc": {
             "pt": "",
@@ -139,7 +139,7 @@
         {
           "nome": {
             "pt": "Omelete de Camarão",
-            "en": "Omelet with Shrimp"
+            "en": "Prawn omelette"
           },
           "desc": {
             "pt": "",
@@ -163,7 +163,7 @@
         {
           "nome": {
             "pt": "Salada César",
-            "en": "Caesar Salad — Lettuce, Tomato, Chicken, Croutons, Feta Cheese"
+            "en": "Caesar salad — lettuce, tomato, chicken, croutons and feta cheese"
           },
           "desc": {
             "pt": "",
@@ -180,7 +180,7 @@
         {
           "nome": {
             "pt": "Salada Tropical",
-            "en": "Tropical Salad — Lettuce, Tomato, Red cabbage, Carrot, Peach, Pineapple"
+            "en": "Tropical salad — lettuce, tomato, red cabbage, carrot, peach and pineapple"
           },
           "desc": {
             "pt": "",
@@ -191,8 +191,8 @@
         },
         {
           "nome": {
-            "pt": "Strognoff de Legumes",
-            "en": "Vegetable Stroganoff — Mix vegetables, Tomato, Red cabbage, Carrot, Cream"
+            "pt": "Strogonoff de legumes",
+            "en": "Vegetable stroganoff — mixed vegetables, tomato, red cabbage, carrot and cream"
           },
           "desc": {
             "pt": "",
@@ -206,7 +206,7 @@
         {
           "nome": {
             "pt": "Tosta de Abacate",
-            "en": "Avocado Toast — Avocado, Bread, Egg"
+            "en": "Avocado toast — avocado and bread"
           },
           "desc": {
             "pt": "",
@@ -214,8 +214,7 @@
           },
           "preco": 8.0,
           "alergenios": [
-            "A",
-            "C"
+            "A"
           ]
         }
       ]
@@ -230,7 +229,7 @@
         {
           "nome": {
             "pt": "Massa à Carbonara",
-            "en": "Carbonara Pasta — Bacon, Ham, Carbonara Sauce"
+            "en": "Pasta carbonara — bacon, ham and carbonara sauce"
           },
           "desc": {
             "pt": "",
@@ -246,7 +245,7 @@
         {
           "nome": {
             "pt": "Massa à Bolonhesa",
-            "en": "Bolognese Pasta — Pasta, Meat, Tomato Sauce, Cheese"
+            "en": "Pasta Bolognese — pasta, meat, tomato sauce and cheese"
           },
           "desc": {
             "pt": "",
@@ -269,8 +268,8 @@
       "itens": [
         {
           "nome": {
-            "pt": "Dourada Grelhada",
-            "en": "Grilled Sea Bream — Sea Bream, Garlic, Oregano"
+            "pt": "Dourada Assada no Forno",
+            "en": "Oven-baked sea bream"
           },
           "desc": {
             "pt": "",
@@ -284,7 +283,7 @@
         {
           "nome": {
             "pt": "Bacalhau à Brás",
-            "en": "Cod à Brás — Codfish, Potato, Olives, Egg, Parsley"
+            "en": "Bacalhau à Brás — shredded salt cod, potatoes, olives, egg and parsley"
           },
           "desc": {
             "pt": "",
@@ -300,7 +299,7 @@
         {
           "nome": {
             "pt": "Salmão assado com manteiga",
-            "en": "Baked Salmon with Butter — Salmon, Butter, Potatoes, Vegetables"
+            "en": "Baked salmon with butter — salmon, butter, potatoes and vegetables"
           },
           "desc": {
             "pt": "",
@@ -324,7 +323,7 @@
         {
           "nome": {
             "pt": "Vitela à Lafões",
-            "en": "Lafões Roasted Veal — Veal, Potato, Onion"
+            "en": "Lafões-style roast veal — veal, potatoes and onion"
           },
           "desc": {
             "pt": "",
@@ -336,7 +335,7 @@
         {
           "nome": {
             "pt": "Bife à Onix",
-            "en": "Onix Steak — Beef, French Fries, Rice, Bacon, Egg"
+            "en": "Onix steak — beef, chips, rice, bacon and egg"
           },
           "desc": {
             "pt": "",
@@ -351,7 +350,7 @@
         {
           "nome": {
             "pt": "Bife às três Pimentas",
-            "en": "Pepper Steak — Beef, French Fries, Rice, Pepper"
+            "en": "Three-pepper steak — beef, chips, rice and pepper"
           },
           "desc": {
             "pt": "",
@@ -365,7 +364,7 @@
         {
           "nome": {
             "pt": "Bitoque à Portuguesa",
-            "en": "Portuguese Bitoque — Beef, Egg, Potatoes, Rice"
+            "en": "Portuguese-style steak — beef, egg, potatoes and rice"
           },
           "desc": {
             "pt": "",
@@ -388,7 +387,7 @@
         {
           "nome": {
             "pt": "Natas do Céu",
-            "en": "Cream, Eggs"
+            "en": "Natas do Céu — cream and egg dessert"
           },
           "desc": {
             "pt": "",
@@ -403,7 +402,7 @@
         {
           "nome": {
             "pt": "Mousse de Chocolate",
-            "en": "Chocolate, Egg, Milk"
+            "en": "Chocolate mousse"
           },
           "desc": {
             "pt": "",
@@ -418,7 +417,7 @@
         {
           "nome": {
             "pt": "Baba de Camelo",
-            "en": "Condensed milk, Eggs, Sugar"
+            "en": "Baba de Camelo — caramelised condensed milk and egg dessert"
           },
           "desc": {
             "pt": "",
@@ -433,7 +432,7 @@
         {
           "nome": {
             "pt": "Salada de Frutas",
-            "en": "Mixed Fruits"
+            "en": "Fruit salad"
           },
           "desc": {
             "pt": "",
@@ -445,7 +444,7 @@
         {
           "nome": {
             "pt": "Sugestão do chef",
-            "en": "Chef's suggestion"
+            "en": "Chef’s dessert suggestion"
           },
           "desc": {
             "pt": "",
@@ -458,15 +457,15 @@
     },
     {
       "nome": {
-        "pt": "Bebidas & Cafetaria",
-        "en": "Drinks & Coffee"
+        "pt": "Bebidas",
+        "en": "Drinks"
       },
       "tipo": "pratos",
       "itens": [
         {
           "nome": {
             "pt": "Água 50cl",
-            "en": "Spring Water 50cl"
+            "en": "Still water — 50 cl"
           },
           "desc": {
             "pt": "",
@@ -478,7 +477,7 @@
         {
           "nome": {
             "pt": "Água 1.5L",
-            "en": "Spring Water 1.5L"
+            "en": "Still water — 1.5 L"
           },
           "desc": {
             "pt": "",
@@ -490,7 +489,7 @@
         {
           "nome": {
             "pt": "Água gás c/ e s/ Sabores",
-            "en": "Sparkling Water"
+            "en": "Sparkling water — plain or flavoured"
           },
           "desc": {
             "pt": "",
@@ -502,7 +501,7 @@
         {
           "nome": {
             "pt": "Néctar",
-            "en": "Nectar"
+            "en": "Fruit nectar"
           },
           "desc": {
             "pt": "",
@@ -514,7 +513,7 @@
         {
           "nome": {
             "pt": "Refrigerantes",
-            "en": "Juice Can"
+            "en": "Soft drinks"
           },
           "desc": {
             "pt": "",
@@ -526,7 +525,7 @@
         {
           "nome": {
             "pt": "Ginger Ale",
-            "en": "Ginger Ale"
+            "en": "Ginger ale"
           },
           "desc": {
             "pt": "",
@@ -538,7 +537,7 @@
         {
           "nome": {
             "pt": "Cerveja Garrafa",
-            "en": "Beer Bottle"
+            "en": "Bottled beer"
           },
           "desc": {
             "pt": "",
@@ -548,11 +547,20 @@
           "alergenios": [
             "A"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "nome": {
+        "pt": "Cafetaria e Digestivos",
+        "en": "Coffee & Digestifs"
+      },
+      "tipo": "pratos",
+      "itens": [
         {
           "nome": {
             "pt": "Chá (Bule)",
-            "en": "Tea"
+            "en": "Pot of tea"
           },
           "desc": {
             "pt": "",
@@ -564,7 +572,7 @@
         {
           "nome": {
             "pt": "Café / Descafeinado",
-            "en": "Coffee / Decaffeinated"
+            "en": "Coffee / decaffeinated coffee"
           },
           "desc": {
             "pt": "",
@@ -576,7 +584,7 @@
         {
           "nome": {
             "pt": "Carioca Café / Limão",
-            "en": "Carioca Coffee / Lemon"
+            "en": "Weak coffee / lemon peel infusion"
           },
           "desc": {
             "pt": "",
@@ -587,7 +595,7 @@
         },
         {
           "nome": {
-            "pt": "Capuccino",
+            "pt": "Cappuccino",
             "en": "Cappuccino"
           },
           "desc": {
@@ -602,7 +610,7 @@
         {
           "nome": {
             "pt": "Galão",
-            "en": "Milk and Coffee"
+            "en": "Galão — Portuguese milky coffee"
           },
           "desc": {
             "pt": "",
@@ -630,7 +638,7 @@
         {
           "nome": {
             "pt": "Aguardente Velha",
-            "en": "Aged Brandy"
+            "en": "Aged brandy"
           },
           "desc": {
             "pt": "",
@@ -644,7 +652,7 @@
         {
           "nome": {
             "pt": "Aguardente Bagaceira",
-            "en": "Bagaceira Brandy"
+            "en": "Bagaceira — grape marc spirit"
           },
           "desc": {
             "pt": "",
@@ -658,7 +666,7 @@
         {
           "nome": {
             "pt": "Whisky Novo",
-            "en": "Young Whisky"
+            "en": "Whisky — regular"
           },
           "desc": {
             "pt": "",
@@ -672,7 +680,7 @@
         {
           "nome": {
             "pt": "Whisky Velho",
-            "en": "Aged Whisky"
+            "en": "Whisky — aged"
           },
           "desc": {
             "pt": "",
@@ -709,76 +717,6 @@
       "itens": [
         {
           "nome": {
-            "pt": "Assobio",
-            "en": "Assobio"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 15.0,
-          "alergenios": [],
-          "regiao": "Douro",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Fraga da Galhofa",
-            "en": "Fraga da Galhofa"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 15.0,
-          "alergenios": [],
-          "regiao": "Douro",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Monte Velho",
-            "en": "Monte Velho"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 12.0,
-          "alergenios": [],
-          "regiao": "Alentejo",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Adega Mayor Reserva 2019",
-            "en": "Adega Mayor Reserva 2019"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 18.0,
-          "alergenios": [],
-          "regiao": "Alentejo",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Adega Mayor Caiado",
-            "en": "Adega Mayor Caiado"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 12.0,
-          "alergenios": [],
-          "regiao": "Alentejo",
-          "preco_meia": null
-        },
-        {
-          "nome": {
             "pt": "Quebra-cabeças",
             "en": "Quebra-cabeças"
           },
@@ -787,7 +725,9 @@
             "en": ""
           },
           "preco": 9.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": 4.5
         },
@@ -801,7 +741,9 @@
             "en": ""
           },
           "preco": 20.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -815,7 +757,9 @@
             "en": ""
           },
           "preco": 15.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -829,7 +773,9 @@
             "en": ""
           },
           "preco": 18.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -843,7 +789,9 @@
             "en": ""
           },
           "preco": 16.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -857,7 +805,9 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -871,7 +821,9 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": 6.5
         },
@@ -885,7 +837,9 @@
             "en": ""
           },
           "preco": 12.5,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -899,7 +853,9 @@
             "en": ""
           },
           "preco": 10.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -913,8 +869,90 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Assobio",
+            "en": "Assobio"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Fraga da Galhofa",
+            "en": "Fraga da Galhofa"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Monte Velho",
+            "en": "Monte Velho"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Reserva 2019",
+            "en": "Adega Mayor Reserva 2019"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 18.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Caiado",
+            "en": "Adega Mayor Caiado"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Alentejo",
           "preco_meia": null
         },
         {
@@ -927,7 +965,9 @@
             "en": ""
           },
           "preco": 16.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Tejo",
           "preco_meia": null
         }
@@ -942,62 +982,6 @@
       "itens": [
         {
           "nome": {
-            "pt": "Assobio",
-            "en": "Assobio"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 15.0,
-          "alergenios": [],
-          "regiao": "Douro",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Fraga da Galhofa",
-            "en": "Fraga da Galhofa"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 15.0,
-          "alergenios": [],
-          "regiao": "Douro",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Adega Mayor Reserva 2019",
-            "en": "Adega Mayor Reserva 2019"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 18.0,
-          "alergenios": [],
-          "regiao": "Alentejo",
-          "preco_meia": null
-        },
-        {
-          "nome": {
-            "pt": "Adega Mayor Caiado",
-            "en": "Adega Mayor Caiado"
-          },
-          "desc": {
-            "pt": "",
-            "en": ""
-          },
-          "preco": 12.0,
-          "alergenios": [],
-          "regiao": "Alentejo",
-          "preco_meia": null
-        },
-        {
-          "nome": {
             "pt": "Quebra-cabeças",
             "en": "Quebra-cabeças"
           },
@@ -1006,7 +990,9 @@
             "en": ""
           },
           "preco": 9.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": 4.5
         },
@@ -1020,7 +1006,9 @@
             "en": ""
           },
           "preco": 15.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1034,7 +1022,9 @@
             "en": ""
           },
           "preco": 18.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1048,7 +1038,9 @@
             "en": ""
           },
           "preco": 16.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1062,7 +1054,9 @@
             "en": ""
           },
           "preco": 25.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1076,7 +1070,9 @@
             "en": ""
           },
           "preco": 11.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1090,7 +1086,9 @@
             "en": ""
           },
           "preco": 10.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1104,7 +1102,9 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
           "preco_meia": null
         },
@@ -1118,8 +1118,74 @@
             "en": ""
           },
           "preco": 15.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Dão",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Assobio",
+            "en": "Assobio"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Fraga da Galhofa",
+            "en": "Fraga da Galhofa"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 15.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Douro",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Reserva 2019",
+            "en": "Adega Mayor Reserva 2019"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 18.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Alentejo",
+          "preco_meia": null
+        },
+        {
+          "nome": {
+            "pt": "Adega Mayor Caiado",
+            "en": "Adega Mayor Caiado"
+          },
+          "desc": {
+            "pt": "",
+            "en": ""
+          },
+          "preco": 12.0,
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Alentejo",
           "preco_meia": null
         },
         {
@@ -1132,8 +1198,10 @@
             "en": ""
           },
           "preco": 9.5,
-          "alergenios": [],
-          "regiao": "Tejo",
+          "alergenios": [
+            "I"
+          ],
+          "regiao": "Península de Setúbal",
           "preco_meia": null
         },
         {
@@ -1146,7 +1214,9 @@
             "en": ""
           },
           "preco": 10.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Verde",
           "preco_meia": null
         },
@@ -1160,7 +1230,9 @@
             "en": ""
           },
           "preco": 9.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "Verde",
           "preco_meia": null
         }
@@ -1183,7 +1255,9 @@
             "en": ""
           },
           "preco": 12.0,
-          "alergenios": [],
+          "alergenios": [
+            "I"
+          ],
           "regiao": "",
           "preco_meia": null
         }
@@ -1197,7 +1271,7 @@
       "cor": "#E8652A"
     },
     "B": {
-      "pt": "Leite / Lactose",
+      "pt": "Leite",
       "en": "Milk",
       "cor": "#00BFFF"
     },
@@ -1222,8 +1296,8 @@
       "cor": "#E67E00"
     },
     "G": {
-      "pt": "Frutos de Casca Rija",
-      "en": "Tree Nuts",
+      "pt": "Frutos de casca rija",
+      "en": "Tree nuts",
       "cor": "#D2691E"
     },
     "H": {
