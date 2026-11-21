@@ -1,38 +1,31 @@
 {
   "tipo": "menu_executivo",
-  "data": "2026-11-20",
+  "data": "2026-11-21",
   "preco": 19.5,
-  "atualizado": "2026-11-20T13:23:46",
+  "atualizado": "2026-11-21T11:25:30",
   "pratos": {
     "sopa": {
-      "pt": "Creme de legumes",
-      "en": "Vegetables cream",
-      "alergenios": [
-        "B",
-        "E"
-      ]
+      "pt": "Sopa de agrião",
+      "en": "Watercress soup",
+      "alergenios": []
     },
     "peixe": {
-      "pt": "Dourada grelhada",
-      "en": "Grilled seabream",
+      "pt": "Arroz de polvo",
+      "en": "Octopus rice",
       "alergenios": [
-        "O"
+        "D",
+        "O",
+        "P"
       ]
     },
     "carne": {
-      "pt": "Arroz de entrecosto em vinha d'alhos",
-      "en": "Spare ribs with rice",
-      "alergenios": [
-        "A",
-        "C",
-        "D",
-        "F",
-        "Q"
-      ]
+      "pt": "Grelhada mista",
+      "en": "Mixed grilled meat",
+      "alergenios": []
     },
     "sobremesa": {
-      "pt": "Pudim de ovos",
-      "en": "Egg pudding",
+      "pt": "Mousse de Oreo",
+      "en": "Oreo mousse",
       "alergenios": [
         "A",
         "B",
